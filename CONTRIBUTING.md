@@ -16,7 +16,6 @@ You're welcome to contribute. All contributions will be reviewed and merged if a
 - Pages are located under pages/
   - Regarding the per-page YAML front-matter :
       - Though the pages are hierarchically arranged in subfolders, the final pages are flatly placed - so make sure your permalinks don't contain '/'.
-      - Ignore the folder attribute.
 - Local tests:
   - Run `bundle exec jekyll serve`
   - Look at https://localhost:4000/hindu-vichaarah/
