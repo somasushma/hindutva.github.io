@@ -13,4 +13,4 @@ topnav_dropdowns:
     - title: Parts
       folderitems:
         - title: Hindutvam हिन्दुत्वम्
-          url: /hindutvam_introduction.html
+          url: /hindutvam/introduction.html
