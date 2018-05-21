@@ -7,14 +7,9 @@ entries:
   folders:
 
   - title:
-    output: pdf
-    type: frontmatter
+    output: web, pdf
     folderitems:
     - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
+      url: /hinduism/introduction.html
+      output: web, pdf
+
