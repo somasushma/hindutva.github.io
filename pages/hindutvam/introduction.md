@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar: hindutvam_sidebar
-permalink: /hindutvam/introduction.html
+permalink: /hindutvam_introduction.html
 folder: hindutvam
 ---
 

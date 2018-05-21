@@ -9,6 +9,6 @@ entries:
     output: web
     folderitems:
     - title: Hindutvam
-      url: /hindutvam/introduction.html
+      url: /hindutvam_introduction.html
       output: web
 

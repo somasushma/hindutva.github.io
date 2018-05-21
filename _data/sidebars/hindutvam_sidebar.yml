@@ -3,13 +3,11 @@
 entries:
 - title: sidebar
   product: Hindutvam
-  version: 1.0
   folders:
-
-  - title:
+  - title: Intro
     output: web, pdf
     folderitems:
-    - title:
-      url: /hindutvam/introduction.html
+    - title: Intro
+      url: /hindutvam_introduction.html
       output: web, pdf
 
