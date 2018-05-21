@@ -1,4 +1,4 @@
-This is a Hindu(tva) site.
+This is a [Hindu(tva) site](http://hindu-coders.github.io/hindu-vichaarah/).
 
 You're welcome to contribute. All contributions will be reviewed and merged if accepted.
 

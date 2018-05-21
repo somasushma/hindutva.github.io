@@ -14,6 +14,7 @@ company_name: hindu-coders
 
 github_editme_path: hindu-coders/hindu-vichaarah/blob/gh-pages
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+# Must end with a slash.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
@@ -110,5 +111,5 @@ description: Hindu culture and prosperity.
 #  Google search results) and in your feed.xml site description.
 
 # needed for sitemap.xml file only
-url: http://http://hindu-coders.github.io
+url: http://hindu-coders.github.io
 baseurl: "/hindu-vichaarah" # the subpath of your site, e.g. /blog
