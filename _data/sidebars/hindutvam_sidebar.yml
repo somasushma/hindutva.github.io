@@ -10,6 +10,6 @@ entries:
     output: web, pdf
     folderitems:
     - title:
-      url: /hinduism/introduction.html
+      url: /hindutvam/introduction.html
       output: web, pdf
 
