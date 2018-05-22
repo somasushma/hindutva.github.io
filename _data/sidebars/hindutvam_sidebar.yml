@@ -8,6 +8,6 @@ entries:
     output: web, pdf
     folderitems:
     - title: Intro
-      url: /hindutvam/introduction.html
+      url: /pages/hindutvam/introduction.html
       output: web, pdf
 
