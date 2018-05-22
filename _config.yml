@@ -98,8 +98,9 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
-
+      permalink: /posts/:slug:output_ext
 # these are defaults used for the frontmatter for these file types
+
 
 sidebars:
 - home_sidebar
