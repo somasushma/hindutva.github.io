@@ -25,13 +25,12 @@ if [ -d "${TAGDIR}" ]; then
     echo "Title for $tag:"
     read title
   # Cannot indent here string.
-cat <<EOF >"${TAGDIR}/tag_${tag}.md"
+cat <<EOF >"${TAGDIR}/${tag}.md"
 ---
 title: "${title}"
 tagName: ${tag}
 search: exclude
-permalink: tag_${tag}.html
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 hide_sidebar: true
 folder: tags
 ---
