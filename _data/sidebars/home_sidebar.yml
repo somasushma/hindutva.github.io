@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: Hindutvam
-      url: /pages/hindutvam/introduction.html
+      url: /pages/hindutvam/hinduism/introduction.html
       output: web
 
     - title: Blog

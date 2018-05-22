@@ -13,6 +13,6 @@ topnav_dropdowns:
     - title: Parts
       folderitems:
         - title: Hindutvam हिन्दुत्वम्
-          url: /pages/hindutvam/introduction.html
+          url: /pages/hindutvam/hinduism/introduction.html
         - title: Blog
           url: /pages/blog/index.html

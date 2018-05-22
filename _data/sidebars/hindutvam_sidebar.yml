@@ -4,10 +4,12 @@ entries:
 - title: sidebar
   product: Hindutvam
   folders:
-  - title: Intro
+  - title: Hinduism
     output: web, pdf
     folderitems:
     - title: Intro
-      url: /pages/hindutvam/introduction.html
+      url: /pages/hindutvam/hinduism/introduction.html
       output: web, pdf
-
+    - title: Religion?
+      url: /pages/hindutvam/hinduism/religion.html
+      output: web, pdf
