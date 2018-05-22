@@ -379,7 +379,7 @@ background-color: #347DBE;
     padding: 4px 10px;
 }
 
-ul#mysidebar {
+ul#displayed_sidebar {
     border-radius:0px;
 }
 
@@ -713,7 +713,7 @@ ol.series li {
     border-color: #248ec2 !important;
 }
 
-#mysidebar .nav ul {
+#displayed_sidebar .nav ul {
     background-color: #FAFAFA;
 }
 .nav ul.series li {
@@ -853,21 +853,21 @@ span.soft {
 }
 
 @media (max-width: 990px) {
-    #mysidebar {
+    #displayed_sidebar {
         position: relative;
     }
 }
 
 @media (min-width: 1000px) {
 
-    ul#mysidebar {
+    ul#displayed_sidebar {
         width: 225px;
     }
 }
 
 @media (max-width: 900px) {
 
-    ul#mysidebar {
+    ul#displayed_sidebar {
         max-width: 100%;
     }
 }
