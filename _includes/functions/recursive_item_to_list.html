@@ -1,0 +1,30 @@
+{% comment %}
+This is a function to turn YML sidebar definitions into HTML lists.
+Based on tip in http://hamishwillee.github.io/2014/11/13/jekyll-includes-are-functions/
+{% endcomment %}
+
+{% assign item = include.item %}
+
+{% if item.contents %}
+    {% assign currentLevel = include.level | plus: 0 %}
+    {% assign nextLevel = include.level | plus: 1 %}
+    {% if currentLevel < 10 %}
+    <li>
+        <a href="#">{{ item.title }}</a>
+        <ul>
+            {% for subitem in item.contents %}
+            {% include /functions/recursive_item_to_list.html item=subitem level=nextLevel %}
+            {% endfor %}
+        </ul>
+    </li>
+    {% endif %} {% comment %}if currentLevel < 10 {% endcomment %}
+{% else %}
+    {% if item.url contains "http://" %}
+    <li><a href="{{subitem.url}}" target="_blank">{{item.title}}</a></li>
+    {% elsif page.url == item.url %}
+    <li class="active"><a href="{{item.url | prepend: site.baseurl}}">{{item.title}}</a></li>
+    {% else %}
+    <li><a href="{{item.url | prepend: site.baseurl}}">{{item.title}}</a></li>
+    {% endif %}
+{% endif %}
+

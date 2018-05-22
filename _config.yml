@@ -49,7 +49,7 @@ exclude:
 feedback_text: "Twitter?"
 # if you uncomment the previous line, it changes the Feedback text
 
-feedback_link: "twitter.com/kashcit"
+feedback_link: "http://twitter.com/kashcit"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge

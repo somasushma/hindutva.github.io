@@ -1,18 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
-entries:
-- title: Sidebar
-  levels: one
-  folders:
+title: Parts
+contents:
+  - title: Hindutvam
+    url: /pages/hindutvam/hinduism/introduction.html
 
-  - title: Parts
-    output: web
-    folderitems:
-    - title: Hindutvam
-      url: /pages/hindutvam/hinduism/introduction.html
-      output: web
-
-    - title: Blog
-      url: /pages/blog/index.html
-      output: web
-
+  - title: Blog
+    url: /pages/blog/index.html

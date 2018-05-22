@@ -1,15 +1,10 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
-entries:
-- title: sidebar
-  product: Hindutvam
-  folders:
+title: Hindutvam
+contents:
   - title: Hinduism
-    output: web, pdf
-    folderitems:
+    contents:
     - title: Intro
       url: /pages/hindutvam/hinduism/introduction.html
-      output: web, pdf
     - title: Religion?
       url: /pages/hindutvam/hinduism/religion.html
-      output: web, pdf
