@@ -1,10 +1,179 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
+# No tabs here!
+
 title: Hindutvam
 contents:
   - title: Hinduism
     contents:
-    - title: Intro
-      url: /pages/hindutvam/hinduism/introduction.html
-    - title: Religion?
-      url: /pages/hindutvam/hinduism/religion.html
+      - title: Intro
+        url: /pages/hindutvam/hinduism/introduction.html
+      - title: Religion?
+        url: /pages/hindutvam/hinduism/religion.html
+      - title: Benefits
+        url: /pages/hindutvam/hinduism/benefits.html
+
+  - title: प्रमाणानि Bases
+    contents:
+      - title: Holy Books- Limits ग्रन्थसीमा
+        url: /pages/hindutvam/bases/books.html
+      - title: ग्रन्थसीमाशिष्टः Role-models
+        url: /pages/hindutvam/bases/elders.html
+      - title: प्रत्यक्षम् Direct witness
+        url: /pages/hindutvam/bases/pratyaxa.html
+
+  - title: Suchness तत्त्वम्
+    contents:
+      - title: चित् The self
+        url: /pages/hindutvam/tattvam/chit.html
+      - title: Connection-web ऋतम्
+        url: /pages/hindutvam/tattvam/Rta.html
+      - title: देवाः Deities
+        url: /pages/hindutvam/tattvam/deva.html
+      - title: पुरुषार्थाः Goals of life
+        url: /pages/hindutvam/tattvam/purushaartha.html
+      - title: Science and magic
+        url: /pages/hindutvam/tattvam/science-magic.html
+      - title: Sublabeling विचारधारा-स्थानम्
+        url: /pages/hindutvam/tattvam/sublabeling.html
+
+  - title: Self-cultivation संस्काराः
+    contents:
+      - title: Introduction
+        url: /pages/hindutvam/self-cultivation/introduction.html
+      - title: Rituals
+        url: /pages/hindutvam/self-cultivation/rituals.html
+      - title: Communal support
+        contents:
+          - title: Introduction
+            url: /pages/hindutvam/self-cultivation/communal-support/introduction.html
+          - title: Exclusivity अधिकार-भेदः
+            url: /pages/hindutvam/self-cultivation/communal-support/exclusivity.html
+          - title: Being different
+            url: /pages/hindutvam/self-cultivation/communal-support/distinctness.html
+          - title: Guru गुरुः
+            url: /pages/hindutvam/self-cultivation/communal-support/guru.html
+      - title: Decoration
+        url: /pages/hindutvam/self-cultivation/decoration.html
+      - title: Food आहारः
+        url: /pages/hindutvam/self-cultivation/food.html
+      - title: काम्यता Sexual attractiveness
+        url: /pages/hindutvam/self-cultivation/sexual-attractiveness.html
+      - title: Presentations
+        url: /pages/hindutvam/self-cultivation/presentations.html
+
+  - title: Communal support
+    contents:
+      - title: धर्मः Responsibility
+        url: /pages/hindutvam/communal-support/dharma.html
+      - title: Fluid dharma
+        url: /pages/hindutvam/communal-support/dharma-fluid.html
+      - title: आश्रमः Life-stages
+        url: /pages/hindutvam/communal-support/aashrama.html
+      - title: Attribute-based गुण-धर्मः
+        url: /pages/hindutvam/communal-support/dharma-fluid.html
+      - title: Caste, Clan जातिः वर्णः च
+        url: /pages/hindutvam/communal-support/clan.html
+        contents:
+          - title: Genetics
+            url: /pages/hindutvam/communal-support/clan/genetics.html
+          - title: Settlement of India
+            url: /pages/hindutvam/communal-support/clan/india-entry.html
+          - title: varNa theory
+            url: /pages/hindutvam/communal-support/clan/varna-theory.html
+          - title: varNa practice
+            url: /pages/hindutvam/communal-support/clan/varna-practice.html
+          - title: vanavAsI-s
+            url: /pages/hindutvam/communal-support/clan/vanavaasii.html
+          - title: Criticism and Counters
+            url: /pages/hindutvam/communal-support/clan/criticism.html
+          - title: varNavatI वर्णवती
+            url: /pages/hindutvam/communal-support/clan/varnavatii.html
+          - title: Modern caste politics
+            url: /pages/hindutvam/communal-support/clan/modern-caste-politics.html
+          - title: Future
+            url: /pages/hindutvam/communal-support/clan/future.html
+      - title: परैः सम्बन्धः External relations
+        contents:
+          - title: अभिज्ञानम् Identification
+            url: /pages/hindutvam/communal-support/external-affairs/id.html
+          - title: सहिष्णुता Tolerance
+            url: /pages/hindutvam/communal-support/external-affairs/tolerance.html
+          - title: स्वरक्षणम् Defence
+            url: /pages/hindutvam/communal-support/external-affairs/defence.html
+          - title: Violence हिंसा
+            url: /pages/hindutvam/communal-support/external-affairs/violence.html
+      - title: Women स्त्रीः
+        url: /pages/hindutvam/communal-support/women.html
+      - title: समाजे भौद्धिकता भावनात्मकता - Intellect and sentiment
+        url: /pages/hindutvam/communal-support/intellect-sentiment.html
+      - title: Subversion पाटनम्
+        url: /pages/hindutvam/communal-support/subversion.html
+
+  - title: अर्थः Resources
+    contents:
+      - title: Intro
+        url: /pages/hindutvam/resources/intro.html
+
+
+  - title: Rivals वैरिणः
+    contents:
+      - title: Abrahamisms generally
+        url: /pages/hindutvam/rivals/abe-disease.html
+      - title: On Islam मरून्मादः
+        contents:
+          - title: Intro
+            url: /pages/hindutvam/rivals/islam/intro.html
+          - title: Subversion as a social constituent
+            url: /pages/hindutvam/rivals/islam/constituent-subversion.html
+          - title: War on infiedels
+            url: /pages/hindutvam/rivals/islam/kaafir-jihaad.html
+      - title: Christianity प्रेतमतम्
+        url: /pages/hindutvam/rivals/zombie-cult.html
+      - title: Idiot Intellectualism
+        contents:
+          - title: Intro
+            url: /pages/hindutvam/rivals/iyi/intro.html
+          - title: Secularism
+            url: /pages/hindutvam/rivals/iyi/secularism.html
+      - title: Academic subversion
+        contents:
+          - title: Charges
+            url: /pages/hindutvam/rivals/academia/charges.html
+          - title: Negationism
+            url: /pages/hindutvam/rivals/academia/negationism.html
+      - title: Appropriation
+        url: /pages/hindutvam/rivals/u-turn.html
+      - title: Dirty rags
+        url: /pages/hindutvam/rivals/rags.html
+      - title: Ananda-addictions
+        url: /pages/hindutvam/rivals/aananda-addiction.html
+
+  - title: Polity राजनीतिः
+    contents:
+      - title: Desiderata काङ्क्षा
+        url: /pages/hindutvam/polity/desiderata.html
+      - title: Post-brit rAj and Hindus
+        url: /pages/hindutvam/polity/sick-india-hindus.html
+      - title: Post-brit rAj- demographics
+        url: /pages/hindutvam/polity/sick-india-demographics.html
+      - title: Geopolitics
+        url: /pages/hindutvam/polity/geopolitics.html
+      - title: Hindus Abroad
+        url: /pages/hindutvam/polity/hindu-abroad.html
+
+
+  - title: History इतिहासः
+    contents: 
+      - title: Intro परिचयः
+        url: /pages/hindutvam/history/intro.html
+      - title: स्थानानि Places
+        url: /pages/hindutvam/history/places.html
+      - title: Heroes महानुभावाः
+        url: /pages/hindutvam/history/heroes.html
+      - title: Alien heroes
+        url: /pages/hindutvam/history/heroes-alien.html
+      - title: Administrative History
+        url: /pages/hindutvam/history/administration.html
+      - title: Military history
+        url: /pages/hindutvam/history/military.html
