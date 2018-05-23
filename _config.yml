@@ -25,7 +25,23 @@ disqus_shortname: hindu-vichaarah
 google_analytics: UA-98198434-2
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
-google_custom_search_tag: <meta name="google-site-verification" content="mEaOUi1zlFflIkcx8GA-OUK5KcCXj5ThcQ8sQZClzsc" />
+google_webmaster_verification_tag: <meta name="google-site-verification" content="mEaOUi1zlFflIkcx8GA-OUK5KcCXj5ThcQ8sQZClzsc" />
+
+google_custom_search_code: "
+<script>
+    (function() {
+        var cx = '000458843298819253658:zwxourfiize';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+</script>
+<gcse:search></gcse:search>
+"
+
 
 host: 127.0.0.1
 # the preview server used. Leave as is.
