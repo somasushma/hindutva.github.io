@@ -1,4 +1,3 @@
 ---
-title: Fix title! 
-sidebar: hindutvam_sidebar
+title: Fix title!
 ---
