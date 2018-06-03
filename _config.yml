@@ -1,4 +1,4 @@
-repository: hindu-coders/hindu-vichaarah
+repository: hindutva/hindutva.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: hindu-vichArAH हिन्दु-विचाराः
 company_name: hindu-coders
 # this appears in the footer
 
-github_editme_path: hindu-coders/hindu-vichaarah/blob/gh-pages/
+github_editme_path: hindutva/hindutva.github.io/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 # Must end with a slash.
 
@@ -131,5 +131,5 @@ description: Hindu culture and prosperity.
 #  Google search results) and in your feed.xml site description.
 
 # needed for sitemap.xml file only
-url: http://hindu-coders.github.io
-baseurl: "/hindu-vichaarah" # the subpath of your site, e.g. /blog
+url: http://hindutva.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
