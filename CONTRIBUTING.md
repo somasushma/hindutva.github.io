@@ -1,4 +1,4 @@
-This is a [Hindu(tva) site](http://hindu-coders.github.io/hindu-vichaarah/).
+This is a [Hindu(tva) site](http://hindutva.github.io/).
 
 You're welcome to contribute. All contributions will be reviewed and merged if accepted.
 
@@ -18,5 +18,5 @@ You're welcome to contribute. All contributions will be reviewed and merged if a
       - Though the pages are hierarchically arranged in subfolders, the final pages are flatly placed - so make sure your permalinks don't contain '/'.
 - Local tests:
   - Run `bundle exec jekyll serve`
-  - Look at https://localhost:4000/hindu-vichaarah/
+  - Look at https://localhost:4000/
   

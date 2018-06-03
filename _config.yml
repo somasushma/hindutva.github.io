@@ -12,7 +12,7 @@ site_title: hindu-vichArAH हिन्दु-विचाराः
 company_name: hindu-coders
 # this appears in the footer
 
-github_editme_path: hindutva/hindutva.github.io/blob/gh-pages/
+github_editme_path: hindutva/hindutva.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 # Must end with a slash.
 
@@ -132,4 +132,4 @@ description: Hindu culture and prosperity.
 
 # needed for sitemap.xml file only
 url: http://hindutva.github.io
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
