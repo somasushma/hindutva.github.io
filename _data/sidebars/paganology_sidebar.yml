@@ -1,0 +1,44 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Paganology
+contents:
+  - title: Introduction
+    url: /paganology/introduction.html
+  - title: Steppe
+    url: /paganology/steppe.html
+  - title: North Europe
+    url: /paganology/north-europe.html
+  - title: China
+    url: /paganology/china.html
+  - title: Tibet
+    url: /paganology/tibet.html
+  - title: Persia
+    url: /paganology/persia.html
+  - title: Mediterranian
+    url: /paganology/mediterranian.html
+  - title: Japan
+    contents:
+      - title: Intro
+        url: /paganology/japan/intro.html
+      - title: Spirituality
+        url: /paganology/japan/spirituality.html
+      - title: kokutai National spirit
+        contents:
+          - title: Intro
+            url: /paganology/japan/kokutai/intro.html
+          - title: Assimilation
+            url: /paganology/japan/kokutai/assimilation.html
+          - title: Rejection of Christ
+            url: /paganology/japan/kokutai/reject-christ.html
+      - title: Material gain
+        url: /paganology/japan/material-gain.html
+      - title: India ties
+        url: /paganology/japan/india-ties.html
+      - title: Geopolitics
+        contents:
+          - title: Intro
+            url: /paganology/japan/geopolitics/intro.html
+          - title: Securing the north
+            url: /paganology/japan/geopolitics/secure-north.html
+          - title: Anti-leukosphere
+            url: /paganology/japan/geopolitics/anti-leukosphere.html
