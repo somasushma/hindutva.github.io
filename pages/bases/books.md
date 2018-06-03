@@ -1,5 +1,5 @@
 ---
-title: Holy Books: Limits ग्रन्थसीमा
+title: Holy Books- Limits ग्रन्थसीमा
 ---
 ## sacred texts
 
