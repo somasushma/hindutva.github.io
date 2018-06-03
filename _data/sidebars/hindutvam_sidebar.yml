@@ -43,6 +43,8 @@ contents:
         url: /pages/self-cultivation/introduction.html
       - title: Rituals
         url: /pages/self-cultivation/rituals.html
+      - title: Mantra and Yantra
+        url: /pages/self-cultivation/mantra-yantra.html
       - title: Communal support
         contents:
           - title: Introduction
@@ -71,7 +73,7 @@ contents:
       - title: आश्रमः Life-stages
         url: /pages/social-cultivation/aashrama.html
       - title: Attribute-based गुण-धर्मः
-        url: /pages/social-cultivation/dharma-fluid.html
+        url: /pages/social-cultivation/guna-dharma.html
       - title: Caste, Clan जातिः वर्णः च
         url: /pages/social-cultivation/clan.html
         contents:
@@ -93,27 +95,18 @@ contents:
             url: /pages/social-cultivation/clan/modern-caste-politics.html
           - title: Future
             url: /pages/social-cultivation/clan/future.html
-      - title: परैः सम्बन्धः External relations
-        contents:
-          - title: अभिज्ञानम् Identification
-            url: /pages/social-cultivation/external-affairs/id.html
-          - title: सहिष्णुता Tolerance
-            url: /pages/social-cultivation/external-affairs/tolerance.html
-          - title: स्वरक्षणम् Defence
-            url: /pages/social-cultivation/external-affairs/defence.html
-          - title: Violence हिंसा
-            url: /pages/social-cultivation/external-affairs/violence.html
       - title: Women स्त्रीः
         url: /pages/social-cultivation/women.html
       - title: समाजे भौद्धिकता भावनात्मकता - Intellect and sentiment
         url: /pages/social-cultivation/intellect-sentiment.html
       - title: Subversion पाटनम्
         url: /pages/social-cultivation/subversion.html
-
+      - title: Violence हिंसा
+        url: /pages/social-cultivation/violence.html
   - title: अर्थः Resources
     contents:
-      - title: Intro
-        url: /pages/resources/intro.html
+      - title: Economics
+        url: /pages/resources/economics.html
 
 
   - title: Rivals वैरिणः
@@ -161,7 +154,14 @@ contents:
         url: /pages/polity/geopolitics.html
       - title: Hindus Abroad
         url: /pages/polity/hindu-abroad.html
-
+      - title: परैः सम्बन्धः External relations
+        contents:
+          - title: अभिज्ञानम् Identification
+            url: /pages/polity/external-affairs/id.html
+          - title: सहिष्णुता Tolerance
+            url: /pages/polity/external-affairs/tolerance.html
+          - title: स्वरक्षणम् Defence
+            url: /pages/polity/external-affairs/defence.html
 
   - title: History इतिहासः
     contents: 
