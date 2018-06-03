@@ -146,10 +146,12 @@ contents:
     contents:
       - title: Desiderata काङ्क्षा
         url: /pages/polity/desiderata.html
-      - title: Post-brit rAj and Hindus
-        url: /pages/polity/sick-india-hindus.html
-      - title: Post-brit rAj- demographics
-        url: /pages/polity/sick-india-demographics.html
+      - title: Post-brit rAj (Sick India)
+        contents:
+          - title: Hindus
+            url: /pages/polity/sick-india/hindus.html
+          - title: Demographics
+            url: /pages/polity/sick-india/demographics.html
       - title: Geopolitics
         url: /pages/polity/geopolitics.html
       - title: Hindus Abroad
