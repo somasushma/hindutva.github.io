@@ -33,7 +33,7 @@ So,**from the core to the periphery**:
 
   
 
-The last section of chapter 36 of PV Kane's vol 5 a must-read for every hindu who wants to understand his background. The part that starts [here](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.5.2/Kane_A-History-of-Dharmasastra-v5-2_1962#page/n945/mode/2up), specifically.
+The last section of chapter 36 of PV Kane's vol 5 a must-read for every hindu who wants to understand his background. The part that starts [here](https://archive.org/stream /HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.5.2/Kane_A-History-of-Dharmasastra-v5-2_1962#page/n945/mode/2up), specifically.
 
   
 
