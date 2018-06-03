@@ -89,23 +89,13 @@ collections:
 defaults:
   -
     scope:
-      path: "*pages/hindutvam/*"
+      path: "*pages/*"
       type: "pages"
     values:
       layout: "page"
       comments: true
       search: true
       sidebar: hindutvam_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      comments: true
-      search: true
-      sidebar: home_sidebar
       topnav: topnav
   -
     scope:
