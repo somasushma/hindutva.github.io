@@ -16,6 +16,10 @@ contents:
     url: /paganology/persia.html
   - title: Mediterranian
     url: /paganology/mediterranian.html
+  - title: Americas
+    url: /paganology/americas.html
+  - title: Africa (non-med)
+    url: /paganology/non-med-africa.html
   - title: Japan
     contents:
       - title: Intro
