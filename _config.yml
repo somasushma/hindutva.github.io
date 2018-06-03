@@ -3,9 +3,6 @@ repository: hindutva/hindutva.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: hindu-vichArAH हिन्दु-विचाराः
-# this appears on the top navigation bar next tog the home button
-
 site_title: hindu-vichArAH हिन्दु-विचाराः
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
@@ -89,14 +86,33 @@ collections:
 defaults:
   -
     scope:
-      path: "*pages/*"
+      path: "*main/*"
       type: "pages"
     values:
       layout: "page"
       comments: true
       search: true
       sidebar: hindutvam_sidebar
-      topnav: topnav
+      topnav: home_sidebar
+  -
+    scope:
+      path: "*paganology/*"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: paganology_sidebar
+      topnav: home_sidebar
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: home_sidebar
+      topnav: home_sidebar
   -
     scope:
       path: ""
@@ -106,7 +122,7 @@ defaults:
       comments: true
       search: true
       sidebar: home_sidebar
-      topnav: topnav
+      topnav: home_sidebar
       permalink: /posts/:slug:output_ext
 # these are defaults used for the frontmatter for these file types
 

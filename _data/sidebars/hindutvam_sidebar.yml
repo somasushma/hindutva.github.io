@@ -7,175 +7,175 @@ contents:
   - title: Hinduism
     contents:
       - title: Intro
-        url: /pages/hinduism/introduction.html
+        url: /main/hinduism/introduction.html
       - title: Religion?
-        url: /pages/hinduism/religion.html
+        url: /main/hinduism/religion.html
       - title: Benefits
-        url: /pages/hinduism/benefits.html
+        url: /main/hinduism/benefits.html
 
   - title: प्रमाणानि Bases
     contents:
       - title: Holy Books- Limits ग्रन्थसीमा
-        url: /pages/bases/books.html
+        url: /main/bases/books.html
       - title: शिष्टः Role-models
-        url: /pages/bases/elders.html
+        url: /main/bases/elders.html
       - title: प्रत्यक्षम् Direct witness
-        url: /pages/bases/pratyaxa.html
+        url: /main/bases/pratyaxa.html
 
   - title: Suchness तत्त्वम्
     contents:
       - title: चित् The self
-        url: /pages/tattvam/chit.html
+        url: /main/tattvam/chit.html
       - title: Connection-web ऋतम्
-        url: /pages/tattvam/Rta.html
+        url: /main/tattvam/Rta.html
       - title: देवाः Deities
-        url: /pages/tattvam/deva.html
+        url: /main/tattvam/deva.html
       - title: पुरुषार्थाः Goals of life
-        url: /pages/tattvam/purushaartha.html
+        url: /main/tattvam/purushaartha.html
       - title: Science and magic
-        url: /pages/tattvam/science-magic.html
+        url: /main/tattvam/science-magic.html
       - title: Sublabeling विचारधारा-स्थानम्
-        url: /pages/tattvam/sublabeling.html
+        url: /main/tattvam/sublabeling.html
 
   - title: Self-cultivation संस्काराः
     contents:
       - title: Introduction
-        url: /pages/self-cultivation/introduction.html
+        url: /main/self-cultivation/introduction.html
       - title: Rituals
-        url: /pages/self-cultivation/rituals.html
+        url: /main/self-cultivation/rituals.html
       - title: Mantra and Yantra
-        url: /pages/self-cultivation/mantra-yantra.html
+        url: /main/self-cultivation/mantra-yantra.html
       - title: Communal support
         contents:
           - title: Introduction
-            url: /pages/self-cultivation/communal-support/introduction.html
+            url: /main/self-cultivation/communal-support/introduction.html
           - title: Exclusivity अधिकार-भेदः
-            url: /pages/self-cultivation/communal-support/exclusivity.html
+            url: /main/self-cultivation/communal-support/exclusivity.html
           - title: Being different
-            url: /pages/self-cultivation/communal-support/distinctness.html
+            url: /main/self-cultivation/communal-support/distinctness.html
           - title: Guru गुरुः
-            url: /pages/self-cultivation/communal-support/guru.html
+            url: /main/self-cultivation/communal-support/guru.html
       - title: Decoration
-        url: /pages/self-cultivation/decoration.html
+        url: /main/self-cultivation/decoration.html
       - title: Food आहारः
-        url: /pages/self-cultivation/food.html
+        url: /main/self-cultivation/food.html
       - title: काम्यता Sexual attractiveness
-        url: /pages/self-cultivation/sexual-attractiveness.html
+        url: /main/self-cultivation/sexual-attractiveness.html
       - title: Presentations
-        url: /pages/self-cultivation/presentations.html
+        url: /main/self-cultivation/presentations.html
 
   - title: Social cultivation
     contents:
       - title: धर्मः Responsibility
-        url: /pages/social-cultivation/dharma.html
+        url: /main/social-cultivation/dharma.html
       - title: Fluid dharma
-        url: /pages/social-cultivation/dharma-fluid.html
+        url: /main/social-cultivation/dharma-fluid.html
       - title: आश्रमः Life-stages
-        url: /pages/social-cultivation/aashrama.html
+        url: /main/social-cultivation/aashrama.html
       - title: Attribute-based गुण-धर्मः
-        url: /pages/social-cultivation/guna-dharma.html
+        url: /main/social-cultivation/guna-dharma.html
       - title: Caste, Clan जातिः वर्णः च
-        url: /pages/social-cultivation/clan.html
+        url: /main/social-cultivation/clan.html
         contents:
           - title: Genetics
-            url: /pages/social-cultivation/clan/genetics.html
+            url: /main/social-cultivation/clan/genetics.html
           - title: Settlement of India
-            url: /pages/social-cultivation/clan/india-entry.html
+            url: /main/social-cultivation/clan/india-entry.html
           - title: varNa theory
-            url: /pages/social-cultivation/clan/varna-theory.html
+            url: /main/social-cultivation/clan/varna-theory.html
           - title: varNa practice
-            url: /pages/social-cultivation/clan/varna-practice.html
+            url: /main/social-cultivation/clan/varna-practice.html
           - title: vanavAsI-s
-            url: /pages/social-cultivation/clan/vanavaasii.html
+            url: /main/social-cultivation/clan/vanavaasii.html
           - title: Criticism and Counters
-            url: /pages/social-cultivation/clan/criticism.html
+            url: /main/social-cultivation/clan/criticism.html
           - title: varNavatI वर्णवती
-            url: /pages/social-cultivation/clan/varnavatii.html
+            url: /main/social-cultivation/clan/varnavatii.html
           - title: Modern caste politics
-            url: /pages/social-cultivation/clan/modern-caste-politics.html
+            url: /main/social-cultivation/clan/modern-caste-politics.html
           - title: Future
-            url: /pages/social-cultivation/clan/future.html
+            url: /main/social-cultivation/clan/future.html
       - title: Women स्त्रीः
-        url: /pages/social-cultivation/women.html
+        url: /main/social-cultivation/women.html
       - title: समाजे भौद्धिकता भावनात्मकता - Intellect and sentiment
-        url: /pages/social-cultivation/intellect-sentiment.html
+        url: /main/social-cultivation/intellect-sentiment.html
       - title: Subversion पाटनम्
-        url: /pages/social-cultivation/subversion.html
+        url: /main/social-cultivation/subversion.html
       - title: Violence हिंसा
-        url: /pages/social-cultivation/violence.html
+        url: /main/social-cultivation/violence.html
   - title: अर्थः Resources
     contents:
       - title: Economics
-        url: /pages/resources/economics.html
+        url: /main/resources/economics.html
 
 
   - title: Rivals वैरिणः
     contents:
       - title: Abrahamisms generally
-        url: /pages/rivals/abe-disease.html
+        url: /main/rivals/abe-disease.html
       - title: On Islam मरून्मादः
         contents:
           - title: Intro
-            url: /pages/rivals/islam/intro.html
+            url: /main/rivals/islam/intro.html
           - title: Subversion as a social constituent
-            url: /pages/rivals/islam/constituent-subversion.html
+            url: /main/rivals/islam/constituent-subversion.html
           - title: War on infiedels
-            url: /pages/rivals/islam/kaafir-jihaad.html
+            url: /main/rivals/islam/kaafir-jihaad.html
       - title: Christianity प्रेतमतम्
-        url: /pages/rivals/zombie-cult.html
+        url: /main/rivals/zombie-cult.html
       - title: Idiot Intellectualism
         contents:
           - title: Intro
-            url: /pages/rivals/iyi/intro.html
+            url: /main/rivals/iyi/intro.html
           - title: Secularism
-            url: /pages/rivals/iyi/secularism.html
+            url: /main/rivals/iyi/secularism.html
       - title: Academic subversion
         contents:
           - title: Charges
-            url: /pages/rivals/academia/charges.html
+            url: /main/rivals/academia/charges.html
           - title: Negationism
-            url: /pages/rivals/academia/negationism.html
+            url: /main/rivals/academia/negationism.html
       - title: Appropriation
-        url: /pages/rivals/u-turn.html
+        url: /main/rivals/u-turn.html
       - title: Dirty rags
-        url: /pages/rivals/rags.html
+        url: /main/rivals/rags.html
       - title: Ananda-addictions
-        url: /pages/rivals/aananda-addiction.html
+        url: /main/rivals/aananda-addiction.html
 
   - title: Polity राजनीतिः
     contents:
       - title: Desiderata काङ्क्षा
-        url: /pages/polity/desiderata.html
+        url: /main/polity/desiderata.html
       - title: Post-brit rAj (Sick India)
         contents:
           - title: Hindus
-            url: /pages/polity/sick-india/hindus.html
+            url: /main/polity/sick-india/hindus.html
           - title: Demographics
-            url: /pages/polity/sick-india/demographics.html
+            url: /main/polity/sick-india/demographics.html
       - title: Geopolitics
-        url: /pages/polity/geopolitics.html
+        url: /main/polity/geopolitics.html
       - title: Hindus Abroad
-        url: /pages/polity/hindu-abroad.html
+        url: /main/polity/hindu-abroad.html
       - title: परैः सम्बन्धः External relations
         contents:
           - title: अभिज्ञानम् Identification
-            url: /pages/polity/external-affairs/id.html
+            url: /main/polity/external-affairs/id.html
           - title: सहिष्णुता Tolerance
-            url: /pages/polity/external-affairs/tolerance.html
+            url: /main/polity/external-affairs/tolerance.html
           - title: स्वरक्षणम् Defence
-            url: /pages/polity/external-affairs/defence.html
+            url: /main/polity/external-affairs/defence.html
 
   - title: History इतिहासः
     contents: 
       - title: Intro परिचयः
-        url: /pages/history/intro.html
+        url: /main/history/intro.html
       - title: स्थानानि Places
-        url: /pages/history/places.html
+        url: /main/history/places.html
       - title: Heroes महानुभावाः
-        url: /pages/history/heroes.html
+        url: /main/history/heroes.html
       - title: Alien heroes
-        url: /pages/history/heroes-alien.html
+        url: /main/history/heroes-alien.html
       - title: Administrative History
-        url: /pages/history/administration.html
+        url: /main/history/administration.html
       - title: Military history
-        url: /pages/history/military.html
+        url: /main/history/military.html

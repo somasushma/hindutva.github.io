@@ -8,39 +8,26 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="fa fa-home fa-lg navbar-brand" href="{{"/index.html" | prepend: site.baseurl}}">&nbsp;<span class="projectTitle"> {{site.topnav_title}}</span></a>
+            <a class="fa fa-home fa-lg navbar-brand" href="{{"/index.html" | prepend: site.baseurl}}">&nbsp;<span class="projectTitle"> {{site.site_title}}</span></a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
                 <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
 
-{% assign topnav = site.data[page.topnav] %}
+{% assign topnav = site.data.sidebars[page.topnav] %}
                 <!-- {{topnav}} -->
-
-                {% for item in topnav.contents %}
-
-                    {% if item.contents %}
-                        <!-- drop-down! -->
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                {{ item.title }}
-                                <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                {% for subitem in item.contents %}
-                                {% include /functions/recursive_item_to_list.html item=subitem level=1 %}
-                                {% endfor %}
-                            </ul>
-                        </li>
-                    {% else %}
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        {{ topnav.title }}
+                        <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        {% for subitem in topnav.contents %}
                         {% include /functions/recursive_item_to_list.html item=subitem level=1 %}
-                    {% endif %}
-
-                {% endfor %}
+                        {% endfor %}
+                    </ul>
+                </li>
                 <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
-                <!-- {{topnav_dropdowns}} -->
-                {% for item in topnav_dropdowns.contents %}
-                {% endfor %}
                 {% if site.feedback_disable == null or site.feedback_disable == false %}
 			{% include feedback.html %}
 		{% endif %}
