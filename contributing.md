@@ -1,3 +1,7 @@
+---
+title: "Contributing to हिन्दु-विचाराः Hindu thoughts"
+---
+
 This is a [Hindu(tva) site](http://hindutva.github.io/).
 
 You're welcome to contribute. All contributions will be reviewed and merged if accepted.
