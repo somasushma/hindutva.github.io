@@ -9,7 +9,7 @@ A personal note: I enjoy chanting (especially bits of the vEda-s I know), doing 
 
 ## The goal
 
-Hindu self-cultivation gives one joy, satisfaction, and strength to follow and achieve the various goals of life, including [dharma](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-upodghatah-prelude).
+Hindu self-cultivation gives one joy, satisfaction, and strength to follow and achieve the various goals of life, including [dharma](../social-cultivation/dharma.md).
 
   
 
@@ -17,7 +17,7 @@ Spirituality (a focus on the development and maintenance of "good" mental states
 
   
 
-Secular/ spiritual non-separation: See [here](https://sites.google.com/site/hinduvichaarah/vairinah/4-idiot-intellectualism/4-secularism).
+Secular/ spiritual non-separation: See [here](../rivals/iyi/secularism.md).
 
 ## Mysticism does not imply goodness
 
@@ -31,4 +31,4 @@ All sAdhaka-s (mystics) don't necessarily follow the same dharma shAstra (moral 
 
 ## Claims of supernatural effects
 
-- See [here](https://sites.google.com/site/hinduvichaarah/svamatam/english).
+- See [here](../tattvam/science-magic.md).

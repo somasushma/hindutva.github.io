@@ -4,7 +4,7 @@ title: Attribute-based गुण-धर्मः
 
   
 
-- Also European sacral kingship [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/1-pre-xtian-europe).
+- Also European sacral kingship [here](../../paganology/europe.md).
 - daNDa - Punishment.
 - Mostly federal monarchies at the state level.
 - Examples of democracy

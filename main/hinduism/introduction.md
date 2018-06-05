@@ -7,7 +7,7 @@ sidebar: hindutvam_sidebar
 
 ## What is Hinduism?
 
-Hinduism is a cultural ethos ([a religion for practical purposes](https://sites.google.com/site/hinduvichaarah/bharatiyata/-religion)) that developed and established itself in the Indian subcontinent and vicinity before the arrival of intolerant foreign monotheism, nothing more and nothing less. Structurally and historically, it has a **Core Vaidika mesh**: The most foundational and impactful contributions to the Hindu ethos came from sages of the Indo-Aryan vedic tradition, whose very-universal ideas (together with the Indo Aryan conservative ritualist class) penetrated and bonded various similarly pagan populations. This ethos, ultimately, has the following important features:
+Hinduism is a cultural ethos ([a religion for practical purposes](religion.md)) that developed and established itself in the Indian subcontinent and vicinity before the arrival of intolerant foreign monotheism, nothing more and nothing less. Structurally and historically, it has a **Core Vaidika mesh**: The most foundational and impactful contributions to the Hindu ethos came from sages of the Indo-Aryan vedic tradition, whose very-universal ideas (together with the Indo Aryan conservative ritualist class) penetrated and bonded various similarly pagan populations. This ethos, ultimately, has the following important features:
 
 - Concepts particular to the **core vaidika** framework, such as:
     - solid, systematic pursuit of philosophy
@@ -19,8 +19,8 @@ Hinduism is a cultural ethos ([a religion for practical purposes](https://sites.
     - saMskAra (solid, systematic pursuit of refinement), sAdhana, tapas, mantra
     - adhikAra-bheda (right to exclusiveness)
 - **Adaptability**: The Hindu ethos is extremely diverse, accommodating mutually opposite metaphysical/ ritual/ economic etc.. viewpoints peacefully ([JM15](http://swarajyamag.com/culture/jeyamohan-on-the-question-of-being-a-cultural-hindu/)). Hinduism has an "open architecture" - almost any philosophy can join in, unless it the kind that attacks the "open architecture" itself.
-    - **Belief: secondary and varied**: Hindu ethos encompasses a huge variety of belief systems - ranging from vaidika orthodoxy to epistemological atheism with non-epistemological "faith", which have for the most part respected each others' right to exist. Indeed, various subversive ostensibly anti-vedic movements such as buddhism and jainism show a great deal of hindu influence in their epistemology, goals and practice. Practice is far more important than belief \[[details](https://sites.google.com/site/hinduvichaarah/svamatam/english)\].
-    - The **polytheism \[and therefore ****polycentrism** ([details](https://sites.google.com/site/hinduvichaarah/svamatam/0-2-devah-deities#TOC-Polycentrism))\] inherent in the core vaidika system is an important contributor to this universality.
+    - **Belief: secondary and varied**: Hindu ethos encompasses a huge variety of belief systems - ranging from vaidika orthodoxy to epistemological atheism with non-epistemological "faith", which have for the most part respected each others' right to exist. Indeed, various subversive ostensibly anti-vedic movements such as buddhism and jainism show a great deal of hindu influence in their epistemology, goals and practice. Practice is far more important than belief \[[details](../tattvam/science-magic.md)\].
+    - The **polytheism \[and therefore ****polycentrism** ([details](../tattvam/deva.md))\] inherent in the core vaidika system is an important contributor to this universality.
     - Contrast with Abrahamistic monotheisms.
     - Related articles:
         - Sanjeev Sanyal has argued ([here](http://swarajyamag.com/culture/the-logic-of-hinduism/)) that Hinduism is a complex adaptive sytem.
@@ -42,7 +42,7 @@ An introduction to some of these concepts by shatAvadhAnI gaNesha here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMDOTpLR1NE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Is hinduism a religion? See [here](https://sites.google.com/site/hinduvichaarah/bharatiyata/-religion).
+Is hinduism a religion? See [here](religion.md).
 
 ### Who is a Hindu?
 
@@ -68,5 +68,5 @@ Problematic stereotyping and omissions:
 
 ## About this site
 
-Popular pages: [Heroes](https://sites.google.com/site/hinduvichaarah/6-history-itihasah/mahanubhavah) . Also see: [About](https://sites.google.com/site/hinduvichaarah/0-0-about-asmadvisaye).
+Popular pages: [Heroes](../history/heroes.md) .
 

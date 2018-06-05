@@ -36,7 +36,7 @@ Rituals are important vehicles for transmitting knowledge and cultural values.
 
   
 
-"A well-developed ritualist caste with a powerful oral tradition and specifically a grammatically tradition that allowed preservation of the language, especially in ritual, close to its old Indo-European state" probably explains the thriving of various branches Indo Aryan culture (including Lithuanians \- see [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/1-pre-xtian-europe), Hindus, Iranians).
+"A well-developed ritualist caste with a powerful oral tradition and specifically a grammatically tradition that allowed preservation of the language, especially in ritual, close to its old Indo-European state" probably explains the thriving of various branches Indo Aryan culture (including Lithuanians \- see [here](../../paganology/europe.md), Hindus, Iranians).
 
   
 
@@ -57,7 +57,7 @@ Contemporary examples:
 
 ### Supernatural effects?
 
-See [magic page](https://sites.google.com/site/hinduvichaarah/svamatam/english).
+See [magic page](../tattvam/science-magic.md).
 
 ## Structure vs feeling tension
 
@@ -96,13 +96,13 @@ A western pagan reconstructionist's view ([KR16](https://krasskova.wordpress.com
 
 ### Eligibility limitations
 
-- The [right to exclusivity](https://sites.google.com/site/hinduvichaarah/sanskarah/2-3/2-exclusivity) (based on gender, stage of life, varNa, position etc..) naturall applies.
+- The [right to exclusivity](communal-support/exclusivity.md) (based on gender, stage of life, varNa, position etc..) naturall applies.
 
 ## Surprising (to some) ritual components
 
 Some unusual rituals involve some unusual components, some of which people may not like. But denying that such rituals exist is not a tenable response. They were proposed because of some benefit in terms of enjoyment or refinement of sentiment. Rather, the performer should use his discretion to modify rituals to suit his and his society's temperaments.
 
-- Animal and human sacrifice (considered [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/violence-hinsa))
+- Animal and human sacrifice (considered [here](../social-cultivation/violence.md))
 - Exchange of abuses
     - Example -
         - gavAmayana ritual - mahAvrata day ([img](http://i.imgur.com/BaUxdMU.jpg), [img2](http://i.imgur.com/r4qU6nv.png))
@@ -114,7 +114,7 @@ Some unusual rituals involve some unusual components, some of which people may n
     - Motivation - Ananda ([TW16](https://twitter.com/GhorAngirasa/status/747747908552822786)), various other rewards
     - Modern examples: Joe Hutto.
 - Sex
-    - See various sexual symbolisms used in adoring deities [here](https://sites.google.com/site/hinduvichaarah/svamatam/0-2-devah-deities).
+    - See various sexual symbolisms used in adoring deities [here](../tattvam/deva.md).
     - vaidika rites
         - gavAmayana ritual - mahAvrata day ([img](http://i.imgur.com/BaUxdMU.jpg), [img2](http://i.imgur.com/r4qU6nv.png))
     - Even (possible) incest
@@ -159,7 +159,7 @@ Some unusual rituals involve some unusual components, some of which people may n
 - Threatening the deities! Some stretch the concept of deities coming under the control of the invoker a bit too far.  
     - Several shabara (non-sanskrit) mantra-s threaten a deity with dire consequences if the requests of the chanter are not granted. Example: [rati-threatening](http://i.imgur.com/CDSKIBg.png).
 - Posession and wildly altered behavior
-    - Avesha has a deep history in hindu thought \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\], and is an important part of many rituals (see [mantra page](https://sites.google.com/site/hinduvichaarah/sanskarah/2-2-mantra-and-yantra)).
+    - Avesha has a deep history in hindu thought \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\], and is an important part of many rituals (see [mantra page](../self-cultivation/mantra-yantra.md)).
         - "It is also important to note, and this is another vital differentiation between casual pop-ideas of possession and that which comes to us from śāstras, is that the act can be initiated either by the possessor or the possessed." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
         - "while true āvesa is full-fledged entering of a deity or force into another individual, thus altering his individuality completely, bhāvāvesa is a more specific experience, where the self-identity of the subject is not necessarily threatened." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
     - Christian version [FB16](https://archive.org/stream/apastamba/EkagniKandam#page/n13/mode/2up).
@@ -198,5 +198,5 @@ Several are the ways one expresses adoration (performs pUjA) towards the deva-s.
         - Some of these offerings may be specially selected to invoke the desired feelings. Examples.
             - Horsegram is considered a favorite of the horse headed hayagrIva.
             - In the indra dhvaja festival images of genitalia were made from mixture of wheat and brown sugar and offered before the dhvaja. Their offering was accompanied by telling of jokes to induce laughter in the assembled (The Mbh records it). It was generally not seen as correct for V1s to eat those after they were offered but the rest of the community did eat them. 
-        - Violence and sacrifice: see [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/violence-hinsa).
+        - Violence and sacrifice: see [here](../social-cultivation/violence.md).
     - addressing verses of praise, songs, dances to the deity.

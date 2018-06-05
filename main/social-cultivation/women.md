@@ -5,7 +5,7 @@ title: Women स्त्रीः
 
 \[Incomplete\]  
 
-- Consider shatAvadhAnI-gaNesha's [commentary on the role of women](http://www.youtube.com/watch?v=EmlvavD3LSg) in ancient India (esp. compared with contempraneous societies elsewhere). Also see examples [here](https://sites.google.com/site/hinduvichaarah/6-history-itihasah/mahanubhavah).  
+- Consider shatAvadhAnI-gaNesha's [commentary on the role of women](http://www.youtube.com/watch?v=EmlvavD3LSg) in ancient India (esp. compared with contempraneous societies elsewhere). Also see examples [here](../history/heroes.md).  
     
 - Womanhood as a lower status birth (hindu society was patriarchal, as in other contemporary societies)  
     - At a ritual and social (rather than family) level, there is no doubt that status of women was lower.  
@@ -20,7 +20,7 @@ title: Women स्त्रीः
 - Right to property? Is woman property to be "given" away or sold during marriage?
     - shabarasvAmin answering this misassertion over 1.5k years ago \[[6.1.13e](https://archive.org/stream/ShabaraBhasyaTrByGanganathJha/Shabara%20Bhasya%20tr%20by%20Ganganath%20Jha%20Vol%202#page/n289/mode/2up), [TW](https://twitter.com/GhorAngirasa/status/864525895784169475)\].
 - The shAstra-s catered to parents who yearned for girls (Apastamba - [IMG](http://imgur.com/EY8uTXbs)) and scholarly girls (बृहदारण्यकोपनिषद्(शुक्लयजुर्वेद)-  अथ य इच्छेद् दुहिता मे पण्डिता जायेत सर्वमायुरियादिति तिलौदनं पाचयित्वा.).
-- Marriage, divorce - see [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/4-asramah-life-stages).
+- Marriage, divorce - see [here](aashrama.md).
 
 - Female foeticide.
     - Foeticide is a grave sin according to hindu-shAstra-s. Yet, in violation of this, people have killed female foetuses in the past.
@@ -37,7 +37,7 @@ title: Women स्त्रीः
         - [FB15](https://www.facebook.com/photo.php?fbid=990115107700335&set=p.990115107700335&type=1).
         - shankara considers such to be smRtyanuvAdinI, as representing smArta, rather than shrauta karma-s. Example: 6.3.1 commentary (- [http://i.imgur.com/GmoWeUa.png](http://i.imgur.com/GmoWeUa.png) । अनुवादोऽत्र - [http://i.imgur.com/2boHAYb.jpg](http://i.imgur.com/2boHAYb.jpg) ।). smRti-s according to some dharmashAstra commentators have less authority than shruti.
         - Unsatisfactory excuses: Some authorities interpret it as encoding a secret (eg: होळेनरसीपुरवासिनः परमपूज्याः श्री श्री सच्चिदानन्देन्द्रसरस्वतीपरमहंसाः IMG[1](http://i.imgur.com/gZbPyuA.jpg)) \- so it should not be taken literally.
-        - Of course, it is easy to regard them as one of the ancient recommendations which need to be given up since the society so hates them (as explained [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/1-11-non-static-nature)).
+        - Of course, it is easy to regard them as one of the ancient recommendations which need to be given up since the society so hates them (as explained [here](dharma-fluid.md)).
         - वेदेषु नैकानि सन्ति दारुणानि कर्माणि यानि कलिवर्ज्यानीति कथ्यन्ते सगर्हणम् पश्चात्तनस्मृतिकारैः। यथा गवालम्भः, नियोगः, कान्याक्रयणम् … । तेष्व् एतदपीति मे मतिः।
     - Some extrapolated the horrendous Nirbhaya rape to suggest that Indian (and by extension Hindu) civilization is particularly horrible for women. 
         - Needless to say, no hindu holy man/ text says: "rape is punishment for going out late."
@@ -49,7 +49,7 @@ title: Women स्त्रीः
 
 ## Access to lore and ritual
 
-- Access is, of course, graded. This is a consequence of the allowance for exclusivism in the hindu way (see[here](https://sites.google.com/site/hinduvichaarah/sanskarah/2-3/2-exclusivity)).
+- Access is, of course, graded. This is a consequence of the allowance for exclusivism in the hindu way (see[here](../self-cultivation/communal-support/exclusivity.md)).
 - Access to veda-s \[Discussions - [BVP](https://groups.google.com/d/msg/bvparishat/0n41vcuW9E0/6vLNNRViDQAJ)\]
     - Not uncommon access for brahmavAdinI-s in texts.
         - हारितः \- "तत्र ब्रह्मवादिनीनाम् उपनयनम्, अग्नीन्धनम् वेदाध्ययनं स्वगृहे च भिक्षाचर्येति।"

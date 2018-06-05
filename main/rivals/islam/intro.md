@@ -15,7 +15,7 @@ TL;DR : Muslim society is undesirable, despite a supposedly tolerant yet silent
 
 ## Undesirability of Muslim society
 
-- Muslim society has a pernicious effect on non-muslim (especially polytheistic) societies. These are detailed in a [separate section](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam/subversion-of-others).
+- Muslim society has a pernicious effect on non-muslim (especially polytheistic) societies. These are detailed in a [separate section](constituent-subversion.md).
 - A muslim society is, in the long term, bad for the muslim population itself, due to:
     - Misogyny taking many forms: Forced veil for women, Taharroush rape game, female genital mutiliation.
     - Opposition to free spirited scientific enquiry in general. Consequently, we have:
@@ -133,17 +133,17 @@ TL;DR : Muslim society is undesirable, despite a supposedly tolerant yet silent
         - Yoga was incorporated into sufiism - eg: Carl Ernst [here](http://www.unc.edu/~cernst/pdf/jras2.pdf), Baḥr al-ḥayāt (Ocean of immortality), an early 17th century Persian Sufi text on yoga [here](http://i.imgur.com/h9TsdOa.jpg).
     - Examples:
         - Wali sanga of Java ([wiki](https://en.wikipedia.org/wiki/Wali_Sanga)).
-        - Several sufi mystics in India - especially kAshmIr. Syed Ali bin Shahab-ud-Din Hamadani Abidi (more on him [here](https://sites.google.com/site/hinduvichaarah/6-history-itihasah/mahanubhavah)).
+        - Several sufi mystics in India - especially kAshmIr. Syed Ali bin Shahab-ud-Din Hamadani Abidi (more on him [here](../../history/heroes.md)).
 
   
 
 ## War on infiedels.
 
-See [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam/3-0-war-on-infiedels).
+See [here](kaafir-jihaad.md).
 
 ## Subversion as a social constituent
 
-See [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam/subversion-of-others).
+See [here](constituent-subversion.md).
 
 ## "Islamic" Science
 
@@ -156,7 +156,7 @@ See [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam/subver
 
 ### How Islam attracts converts
 
-- Examples of converts are noted [here](https://sites.google.com/site/hinduvichaarah/0-05-benefits-prayojanam).
+- Examples of converts are noted [here](../../hinduism/benefits.md).
 - Philosophical simplicity
     - 1 jealous god who stands apart, 1 devil, 1 final prophet, simple afterlife and origin stories, almost no image veneration
 - Simple practice
@@ -228,12 +228,12 @@ See [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam/subver
 
 ### Historical Hindu response
 
-- See [here](https://sites.google.com/site/hinduvichaarah/vairinah/abrahamisms-generally).
+- See [here](../abe-disease.md).
 
 ### Military response
 
 - "Biggest defeats of sullas were 1) Mongols 2) Spanish 3) Qing (80% of sullas in empire died when curbing Dungan, Panthay etc)." \[[TW](https://twitter.com/search?src=typd&q=from%3Arjrasva%20dungan)\]
-- Hindu military response see [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-4-svaraksanam-defence).
+- Hindu military response see [here](../../polity/external-affairs/defence.md).
 
 ## Compendium of sources
 

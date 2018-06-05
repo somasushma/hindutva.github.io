@@ -12,4 +12,4 @@ title: Exclusivity अधिकार-भेदः
 
 ## Consequences
 
-- See jAti-varna etc.. [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah).
+- See jAti-varna etc.. [here](../../social-cultivation/clan/varna-theory.md).

@@ -11,7 +11,7 @@ title: देवाः Deities
 - The **deities as entities of wonder:** kRShNa says in the exceptionally brilliant chapter 10 bhagavad-gItA, after identifying himself with a long series of awesome things (such as "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम्") : "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा । तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥ ४१ ॥" - "All that is endowed with glory, grace, grandeur, has sprung from a mere flare of my radiance" (Dr. G L Krishna [here](http://www.sandeepweb.com/the-bhagavad-gita-before-the-battle/)). This is concordant with the hindu notion of divinity.
     - "Āścaryavat paśyati kaścid enam, āścaryavad vadati tathaiva cānyaḥ | Āścaryavac cainam anyaḥ śṛṇoti, śrutvāpy enaṃ veda na caiva kaścit ||" (BG)
     - To paraphrase GL kRShNa: The adoration of awesomeness includes adoration of glorious characters in our legends, the celebration of natural geography (the great rivers, the great mountains, etc. as centres of pilgrimage) and the adoration of sages (from Vyasa-Vishwamitra to Ramana-Ramakrishna).
-- Beyond this, the [vaidika view](https://youtu.be/DUsZ_5A7-Ho?list=PLhPjckGlZ7rQFXvhumWnIctUgARdPYayL&t=228) \[[YT](https://youtu.be/DUsZ_5A7-Ho?list=PLhPjckGlZ7rQFXvhumWnIctUgARdPYayL&t=228)\] was that the devatA-s are conscious and willful entities attached to every single living or non-living substance. In one point of view, the dEvatAs are actually concepts which exist in our collective imaginations (say - in the form of [mantra](https://sites.google.com/site/hinduvichaarah/sanskarah/2-2-mantra-and-yantra)-s) and in the natural objects/ forces/ motivations they personify.
+- Beyond this, the [vaidika view](https://youtu.be/DUsZ_5A7-Ho?list=PLhPjckGlZ7rQFXvhumWnIctUgARdPYayL&t=228) \[[YT](https://youtu.be/DUsZ_5A7-Ho?list=PLhPjckGlZ7rQFXvhumWnIctUgARdPYayL&t=228)\] was that the devatA-s are conscious and willful entities attached to every single living or non-living substance. In one point of view, the dEvatAs are actually concepts which exist in our collective imaginations (say - in the form of [mantra](../self-cultivation/mantra-yantra.md)-s) and in the natural objects/ forces/ motivations they personify.
 - Sallustus's view [p1](https://hermetic.com/texts/on_the_gods-1), [p2](https://hermetic.com/texts/on_the_gods-2).
 
 ## Benefits:
@@ -61,7 +61,7 @@ but for the sake of the Self
 
 - शास्त्रेषु विहिता एव स्युः पूजनीया देवता इति न। किन्तु, शास्त्रेतरदैवतेषु पूजायोग्यता चिन्तनीयैव। तत्राऽपि मानुषाणाम् आधुनिकानाम्। यथोन्मत्तानाम् अब्राह्म\-मूलानां म्लेच्छानां पूज्यो राक्षसो न पूजामर्हत्य् आर्याणाम्, यथा च हिरण्यकशिपुर् नार्हत् परमपूजां पितृत्वेन प्रह्लादपूजापात्रञ्चेदपि तथैव सायिम्लेच्छस्यपूजायाम् अस्त्येवापत्तिः। किन्नाम \- सा पूजा ऽऽर्यम्लेच्छभेदभावनां निवारयति, कपटेन वैदिकता+उन्मादयोस् सामरस्यं सम्पादयति जनमनस्स्व् इत्य् अस्मासु जनयेद् भीतिम् महतीम् राष्ट्र-धर्म-हितकाङ्क्षिणाम्। यथा शबरीमलयात्रायां वावरपूजाम् अन्यथा व्याख्यान्त एवमेव कुर्वन्तो दृश्यन्ते।
 - अत्र देहस्य "immune system" निदर्शनरूपेण गृह्यताम्। AIDS-रोग-ग्रस्थानां देहेषु निजपरतत्त्वभेदशक्तिर् भवति नष्टा। ओषध्यभावे शीघ्रमेव परजीवाणुभिर् आक्रान्तास् तद्देहा मिर्यन्ते।
-- See "tolerance" [page](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-1-sahisnuta-tolerance).
+- See "tolerance" [page](../polity/external-affairs/tolerance.md).
 
 ### Examples
 
@@ -118,7 +118,7 @@ but for the sake of the Self
             - vAyu
     - Coronation of indra by prajApati and deva-s in aitereya-brAhmaNa \[[tw16](https://twitter.com/Dauhshanti/status/762961718058160128)\].
     - Origin stories and one puppet-master antaryAmin
-        - The "many from one" view became well established. This is explained the [connection web section](https://sites.google.com/site/hinduvichaarah/svamatam/sambandhajalah). Some systems took the original substance to be impersonal, others took it to be personal.
+        - The "many from one" view became well established. This is explained the [connection web section](Rta.md). Some systems took the original substance to be impersonal, others took it to be personal.
         -  "Many from one" is tolerable - "many forms of one" or "one antaryAmi puppet-master in everything" is where things risk of Ananda addiction begins to set in. But norse like "many from some thing(s)" seems safest.
     - The "supreme deity" concept gained prominent following.
         - Historical development
@@ -210,7 +210,7 @@ but for the sake of the Self
         - varAha-purANa calling rudra "moha" and generating moha-shAstra-s, and trying to rescue the confused with nihshvAsa-samhitA [WP17](https://kashcidvipashcit.wordpress.com/2017/11/03/%E0%A4%B6%E0%A5%88%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%AE%E0%A5%87%E0%A4%B7%E0%A5%81-%E0%A4%B5%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/).
         - jayadratha the kAshmIra describing bauddha anti-astika tropes as confusion emerging out of a ploy by bRhaspati. \[[TW16](https://twitter.com/blog_supplement/status/777715943317377024)\]
         - In "lay" circles the shivapurANa posits that viShNu incarnated as tathAgata or arihant to produce fake shAstra-s. \[[TW16](https://twitter.com/blog_supplement/status/777715943317377024)\]
-        - Claims to greater authority through association with honored beings, known from ancient times \[[TW16](https://twitter.com/blog_supplement/status/777715943317377024)\]. Also see notes on argument from authority and ploys to dismiss those [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+        - Claims to greater authority through association with honored beings, known from ancient times \[[TW16](https://twitter.com/blog_supplement/status/777715943317377024)\]. Also see notes on argument from authority and ploys to dismiss those [here](../bases/books.md).
     - Threatening divine punishment for switching ritual affiliations or weaking group cohesion through leakage : 
         - nihshvAsa text of shaiva siddhAnta - [TW17](https://twitter.com/GhorAngirasa/status/916258143646224384).
         - Later found in Tibetan vajrayAna as dorje shugden.
@@ -237,8 +237,8 @@ but for the sake of the Self
     - One adaptation that was wildly successful was one of Mosaic exclusivism. It incited violent intolerance towards adoration of other deities, and alternative forms of adoration.
         - An early form of this can bee seen in the harsh good vs evil dichotomy one sees in the Zoroastrian ahura mAzDa vs anghri mainyu and the asura-adorers vs deva-adorers case.
         - The harsh reactions to this on the part of more free spirited polytheists, was a successful response. Examples:
-            - Roman suppression of Christianity (Too late) - more [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/1-pre-xtian-europe).
-            - Thorough Japanese suppression of Christianity in the 17th century \[more [here](https://sites.google.com/site/hindujapanology/5-rivals/0-christianity)\].
+            - Roman suppression of Christianity (Too late) - more [here](../../paganology/europe.md).
+            - Thorough Japanese suppression of Christianity in the 17th century \[more [here](../../paganology/japan/kokutai/reject-christ.md)\].
     - The above probably says something about how the Indian ecosystem was different from the middle eastern or other ecosystems -
         - there was the hoary vedic lore one could not afford to diss,
         - the competition happened in the hearts and minds of philosophers well established in their homeland, rather than a population of common ruffians stressed by an exile to Babylon or escape from Egypt.

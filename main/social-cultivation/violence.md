@@ -28,7 +28,7 @@ Violence, moderated by social and legal concerns, is allowed and practiced by hi
             - "Srauta sutras and even brahmanas mention that men are not killed in purushamedha"\[[TW17](https://twitter.com/blog_supplement/status/849800893201612800)\]
             - "But maybe in pre samhita yajnas and para-vaidika traditions may have continued it".
                 - "puruSha-medha rite the rival king was captured and brought as a prisoner by the sacrificing king. The rite lasted a whole year. At the end of it he was smothered and sacrificed with the deployment of the puruSha sUkta. Along with him, his animals may also be sacrificed and immolated as offerings." \[[MT](https://manasataramgini.wordpress.com/2003/08/11/vedic-human-sacrifice/)\].
-        - Collection of a skull for chayana during a yAga, described [here](https://sites.google.com/site/hinduvichaarah/sanskarah/2-1-rituals), could involve killing.
+        - Collection of a skull for chayana during a yAga, described [here](violence.md), could involve killing.
         - (Almost) sacrifice of Śunaśśepha by ambarISha.
         - shunaskarNa+agniShToma where the yajamAna/patnI sacrifice themselves
     - Substitutions are endorsed in specific cases
@@ -89,7 +89,7 @@ Violence, moderated by social and legal concerns, is allowed and practiced by hi
     - Burning oneself on a pire as a paschAt-tApa/ prAyashchita. The pAla king, the tale of the maNDana.
     - sallekhana among jains.
     - garuDa heroes following their kings in South India \[[IM](http://i.imgur.com/LcJGXVh.png)\].
-    - Following the husband by satI-s (details [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-2-role-of-women)). 
+    - Following the husband by satI-s (details [here](women.md)). 
 - ALso, hinduism is not for good people alone.
     - rAvaNa was also reputed to be a shiva-devotee (same with several other rAkShasa-s).
     - Yogi-s and ascetics did serve as warriors and mercenaries.

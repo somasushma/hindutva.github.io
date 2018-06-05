@@ -17,11 +17,11 @@ An individual's life passes through various phases. Important among them were de
     - Mate choice and marriage maintenance - [KV18](https://kashcidvipashcit.wordpress.com/2018/04/08/marriage-advice-for-hindu-snataka-s/).
     - "Hindu parents rooted in Dharma are living temples." \[OGS\]
 - vAnaprastha - Retirement to forest. (vaikhAnasa-gRhya-sUtra gives a procedure for transition to this Ashrama, while others don't.)
-- sannyAsa - Asceticism in pursuit of mokSha or Ananda (described [here](https://sites.google.com/site/hinduvichaarah/svamatam/1-0-purusarthah-goals-of-life)), mostly to the neglect of pravRtti-dharma.
+- sannyAsa - Asceticism in pursuit of mokSha or Ananda (described [here](../tattvam/purushaartha.md)), mostly to the neglect of pravRtti-dharma.
     - Not at all dealt with by the gRhya-sUtra-s - some say because it is out of scope, others say that this is because this Ashrama was unknown, unpopular or frowned upon.
     - Early mention in the bRhadAraNyaka. An easy extension of the naiShThika-brahmachArI concept. Possibly later gained more and more acceptance due to the influential shramaNa streams.
     - Rejected by several later texts as kali-varjya.
-    - The controversial role of Ananda-pursuit in the neglect of dharma by hindu-s is considered [here](https://sites.google.com/site/hinduvichaarah/svamatam/1-0-purusarthah-goals-of-life).
+    - The controversial role of Ananda-pursuit in the neglect of dharma by hindu-s is considered [here](../tattvam/purushaartha.md).
 
 ## gRhasthAshrama
 

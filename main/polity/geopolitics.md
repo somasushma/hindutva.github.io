@@ -23,7 +23,7 @@ title: Geopolitics
 ### China
 
 - Territorial aggression by mainland China is being opposed by a good coalition of neighbors - India, Japan, Taiwan, Vietnam, Korea, Mongolia, Russia.
-- More background [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/4-sinology).
+- More background [here](../../paganology/china.md).
 
 ### USA \[2013\]
 
@@ -44,12 +44,9 @@ title: Geopolitics
             - Push the false claim: Western ethics = human rights.  
                 
             - They try to hide their White Judeo-christian beliefs and perspective, but it is there.  
-                
-            
             - Conservativism
                 - Bible centered thought.
-                - Safety net during adversity.  
-                    
+                - Safety net during adversity.                      
             - Religion-age-education breakdown [here](http://2tzms222h2ff3dfce824gngnno8.wpengine.netdna-cdn.com/files/2015/02/Age-College-Religions2.png).
 - Regarding India  
     - Hindu thought has penetrated US pop culture (though not the core). So, India is worthy of being a "cool" satellite to the US core. \[See [American Veda](http://americanveda.com/), for details.\]
@@ -93,7 +90,3 @@ Even quasi-islamic sects like Ahmadiya-s and shia-s are frequent targets of terr
 #### Future
 
 Not sure.
-
-### Japan!
-
-- See [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/japanology).

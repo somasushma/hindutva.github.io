@@ -5,7 +5,7 @@ title: Fluid dharma
 
 ## Fluidity while retaining core principles
 
-Indian notions of dharma was very fluid. (For a general context on the limits of codification and holy books, [see here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).) 
+Indian notions of dharma was very fluid. (For a general context on the limits of codification and holy books, [see here](../bases/books.md).) 
 
 - Notes
     - PV kANe's notes on fluidity: [1](http://i.imgur.com/RqIaXDz.jpg), [2](http://i.imgur.com/QWHBZ4G.jpg),[ 3](http://i.imgur.com/XG0MWDC.jpg), [4](http://i.imgur.com/MXC5ydx.jpg), [5](http://i.imgur.com/9uV0arq.jpg).
@@ -13,16 +13,16 @@ Indian notions of dharma was very fluid. (For a general context on the limits of
 
 ### Principles
 
-- The explicitly and implicitly stated motivations of dharma (such as accomplishing comfort/ sukha of everyone in order to retain one's comfort - quotes in [this page](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-upodghatah-prelude)) naturally enable people to redetermine the details of what constitutes dharma "from first principles".
+- The explicitly and implicitly stated motivations of dharma (such as accomplishing comfort/ sukha of everyone in order to retain one's comfort - quotes in [this page](dharma.md)) naturally enable people to redetermine the details of what constitutes dharma "from first principles".
 - dharma-shAstra-s reflect the circumstances in which they were composed - these circumstances may not hold at present.
-    - "the entire enterprise of searching for a doctrine of oppression in negative statements regarding the shUdras in the MDS (manu smRti) and allied texts is a rather misplaced venture. These texts are a product of a certain historical conflicts, where the brahma-kShatra alliance is merely seen to be defending its interests against competitors and threats (ie shUdra-s). Whether, their texts or their interpretations based on misunderstood terminologies were basis of social inequities, which are very natural in primate societies, is highly questionable." \[[MT](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/), also see [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah/indo-aryans-in-india)\]  
+    - "the entire enterprise of searching for a doctrine of oppression in negative statements regarding the shUdras in the MDS (manu smRti) and allied texts is a rather misplaced venture. These texts are a product of a certain historical conflicts, where the brahma-kShatra alliance is merely seen to be defending its interests against competitors and threats (ie shUdra-s). Whether, their texts or their interpretations based on misunderstood terminologies were basis of social inequities, which are very natural in primate societies, is highly questionable." \[[MT](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/), also see [here](../social-cultivation/clan/varna-theory.md)\]  
         
 - "Grain needs cooking, but cooked grain expires fast" analogy (By Narasimha Rao - [FB](https://www.facebook.com/vishvas.vasuki/activity/10153114524342989?comment_id=10153115494222989&offset=0&total_comments=6&ref=notif&notif_t=open_graph_action_comment)).
     - Raw grains stay for a long time, but cannot be digested when eaten. Cooked grains can be eaten and digested, but get rotten very quickly. Similarly, core principles of dharma are eternal, but tough to understand, judge and apply. While "interpreted/applied" rules/customs of dharma are easy to understand and use, they expire after sometime. Even food cooked by a great cook gets rotten in time. Similarly, specific rules laid down by even a great prophet/rishi become irrelevant in time. The only way is to keep the raw grains and let someone cook them for you when you want to eat. Hinduism allows for men to experience subtle truths within themselves and "interpret" \*generic principles\* of dharma and lay down \*specific rules\* for people around them.
 - Fluidity is acknowledged in the shAstra-s
     - अन्ये कृतयुगे धर्माः त्रेतायां द्वापरे युगे । अन्ये कलियुगे नृणां युगरूपानुसारतः ॥ \- manu
     - क्रुते तु मानवा धर्माः त्रेतायां  गौतमाः स्मृताः ॥ द्वापरे शङ्खलिखिताः कलौ पाराशराः स्मृताः ॥
-    - See kauShitaki "knowing indra" text and other ideas under "subjugation to the "ultimate reality"" [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+    - See kauShitaki "knowing indra" text and other ideas under "subjugation to the "ultimate reality"" [here](../bases/books.md).
 
 ### Manifestations of fluidity in shAstra-s
 
@@ -72,13 +72,13 @@ Indian notions of dharma was very fluid. (For a general context on the limits of
 
 - An analysis of motivations in transgression of injunctions \[[KV16](https://kashcidvipashcit.wordpress.com/2016/11/02/motivations-in-transcending-shastra-vidhi/)\].
 - Widely ignored rules
-    - Crossing the seas, going to kalinga, vanga etc.. - see [here](https://sites.google.com/site/hinduvichaarah/sanskarah/2-1-rituals).
+    - Crossing the seas, going to kalinga, vanga etc.. - see [here](../self-cultivation/rituals.md).
 
 ## Managing disagreement
 
 - The schism of the liberals from powerful orthodoxy has led to betrayal and collapse in the past.
     - Examples
-        - The betrayal of the yAdava empire by mahAnubhAva-s - seek [here](https://sites.google.com/site/hinduvichaarah/6-history-itihasah/mahanubhavah) for more info.
+        - The betrayal of the yAdava empire by mahAnubhAva-s - seek [here](../history/heroes.md) for more info.
         - Ambedkar's close collaboration with the British rulers and role in dissuading them from leaving.
         -  \[[Zoro1](https://vishvasvasuki.wordpress.com/2015/08/31/a-hindu-perspective-on-zoroastrians-schism-of-the-liberals-and-its-dangers/)\]
 - Modern orthodoxy: Practice of ways that are ancient in spirit, suitably adapted, while participating in contemporary enterprise. This is chief.

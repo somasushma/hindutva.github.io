@@ -5,7 +5,7 @@ title: Secularism
     - sickularism
     - (via [Ambreesh](https://www.facebook.com/ambreesh.mishra)) \- post-christian christianism.
     - Dechristianized christianity (bAlagangAdhara) \[[hipkapi](http://www.hipkapi.com/2011/03/03/the-religion-of-secular-state-dechristianized-christianity-s-n-balagangadhara/)\]
-    - Note its close connection to modern reactionary epistemological atheism (described [here](https://sites.google.com/site/hinduvichaarah/vairinah/zombie-cult)).
+    - Note its close connection to modern reactionary epistemological atheism (described [here](../zombie-cult.md)).
 - There is often a continuation of thought patterns of the abrahamisms. \[[JG](http://library.fora.tv/2008/05/24/John_Gray_in_Conversation)\] Examples:
     - History with a purpose, future being worse than the past, culminating in some sort of ecstatic utopia. \[Seen in millennarianism, which is ought to be accomplished by divine power, and often by war - Syria 2014, Lybia 2013, Iraq, afghAnistan.\]
     - Scorn for superstitious heathens.
@@ -16,7 +16,7 @@ title: Secularism
     - "From a human perspective an invading pathogen is abnormal; from the pathogen's perspective it's perfectly normal." –Zinsser
     - It is taken to be a license to proselytize and subvert the weakest and stupidest sections of pagan society.
     - This puts heathen traditions like hinduism and shinto at a disadvantage. To counter them, they are forced to pervert themselves and develop proselytizing arms.
-    - See the [stubborn minority principle here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-1-sahisnuta-tolerance).
+    - See the [stubborn minority principle here](../../polity/external-affairs/tolerance.md).
     - This is especially true today: " there are inevitably nay-sayers, non-theists, secular-pagans and the like who pounce in proudly with “but there were non-polytheists in the ancient world too.” They will bring up pantheism, monism, atheism and the like as though this somehow strengthens their attempts to dismantle our traditions. ... I think the time has come to address some of this ideological undercutting because while what they say is technically accurate, it is presented without context and that context is important. We live in a very different world from our polytheistic ancestors. We are an occupied people. Our world is doggedly, demonstrably, and sometimes violently monotheistic. ..." \[[krasskova16](https://krasskova.wordpress.com/2016/03/13/the-battle-for-polytheisms-soul/)\]
 - Equation of inimical barbarian religions with national cultural traditions.
     - Secularism fosters a false sense of equality between the national pagan culture and the barbarian abrahamisms (which are not even comparable, being as different as an orange is to a brinjal). This brings exclusivist, poisonous dogmas to the fore, and offers them deference and legitimacy.

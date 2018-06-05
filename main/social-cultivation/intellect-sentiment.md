@@ -55,7 +55,7 @@ Tolerance of diverse ideas, even intolerant ones.
 - Note the [statistics](http://www.arvindguptatoys.com/arvindgupta/beautifultree.pdf) by dharmapAl.
 - Tyler Cowen writes in a [short post](http://marginalrevolution.com/marginalrevolution/2012/04/indian-education-under-the-british-empire.html) : .."educational expenditures in India, under the British empire, never exceeded one percent of gdp. To put that in perspective, for 1860-1912 in per capita terms the independent “Princely states” were spending about twice as much on education as India under the British. Mexico and Brazil, hardly marvels of successful education, were spending about five times as much."
 - sentimental, ritual and vaidika education restrictions based on jAti/ caste /varNa:
-    - See theory [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah/structure-motivation#TOC-Contrast-of-privileges.), practice [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah/1-3-varna-practice).  
+    - See Contrast-of-privileges in theory page [here](../social-cultivation/clan/varna-theory.md), practice [here](../social-cultivation/clan/varna-practice.md).  
         
     - This restriction was motivated by the need to conserve the veda-s against corruption and subversion - letting all and sundry propagate it would violate the conservative mission of the dvija core. 
     - Education in the veda-s is made available to students irrespective of clan or caste by several institutions, including some traditional ones ([TTD-NDTV09](http://www.ndtv.com/video/player/news/dalits-to-learn-vedas-at-tirupati/53460)). But students tend to mostly be brAhmaNa-s anyway.
@@ -67,7 +67,7 @@ This has both pro-s and con-s, as illustrated in [TW16](https://twitter.com/kash
 #### British deeds
 
 - When swati tirunal opened schools for all castes, he was stopped from doing so in more places as missionaries opposed it.
-- Also see [here](https://sites.google.com/site/hinduvichaarah/vairinah/zombie-cult) regarding aid to missionaries.
+- Also see [here](../rivals/zombie-cult.md) regarding aid to missionaries.
 
 ### World exploration and travelling.
 
@@ -86,4 +86,4 @@ Yoga studios, meditation groups and "repackaged" ideas in science are an apparen
 
 ## Easy compatibility with modern science
 
-We discuss this [here](https://sites.google.com/site/hinduvichaarah/svamatam/english).
+We discuss this [here](../tattvam/science-magic.md).

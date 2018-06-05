@@ -32,7 +32,7 @@ Also see notes on Avesha as an end in \[[IF16](http://indiafacts.org/brief-stud
 Meaning:
 
 - To understand what a mantra says and, to feel what the mantra feels: This is one good reason why learning Sanskrit, with its stresses (svara-s) is valuable.
-- General background on multi-level ways to derive meaning out of texts in general is presented [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+- General background on multi-level ways to derive meaning out of texts in general is presented [here](../bases/books.md).
 - Some claim that it is not necessary to understand what the words in the mantra mean (to whatever extant the grammar would allow). A kautsa opinion, quoted and refuted by yAska, denies that it has any grammatical meaning (while not denying the value of the mantra in ritual ). Such opinion is condemned in quotes in shikSha texts which denounce pATha without "understanding" with the aid of vedAnga-s (शीघ्रपाठी…). (Personal note: I strongly disagree. While a mantra can contain meanings beyond what is revealed by mere grammar and vocabulary, that lower level of meaning is important in itself, and as an aid to access deeper meanings.)
 
 Some claim that mantra-s are ineffective in case:

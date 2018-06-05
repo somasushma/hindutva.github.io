@@ -17,7 +17,7 @@ title: Dirty rags
         - MT's observations: [NT](https://manasataramgini.wordpress.com/2014/10/25/a-geopolitical-segment-the-news-traders/).
         - [MV15](https://www.facebook.com/mani.varadarajan/posts/10153171497863097).
         - NYT - [NL15](http://www.newslaundry.com/2015/10/03/does-the-new-york-times-have-an-india-problem/).
-    - Some of it is due to the mlecCha-s' lack of context combined with undue vehemence - also discussed [here](https://sites.google.com/site/hinduvichaarah/vairinah/academic-subversion).
+    - Some of it is due to the mlecCha-s' lack of context combined with undue vehemence - also discussed [here](academia/charges.md).
     - Dalit/ women/ caste suppression lies.
         -  Fake dalit rape petition - Amnesty international - [AmnRap15](http://www.spiked-online.com/newsite/article/amnesty-fuelling-the-indian-rape-myth/17406#.VfMlFrMM_Bc.twitter). (Compare with associated nonsense in famous rags - [img](http://i.imgur.com/eMTDF5E.png) )
         - Dalit killed and set ablaze - false \[ [IMG](http://i.imgur.com/0Vz6rKX.jpg)15\]

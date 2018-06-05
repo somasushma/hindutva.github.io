@@ -2,7 +2,7 @@
 title: Military (General)
 ---  
 
-Hindu military history and evaluation - [see here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-4-svaraksanam-defence).
+Hindu military history and evaluation - [see here](../polity/external-affairs/defence.md).
 
   
 

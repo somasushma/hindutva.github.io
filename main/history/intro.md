@@ -11,7 +11,7 @@ title: Intro
 
 ## Why not to examine history?
 
-- History is not central to benefiting from the hindu worldview (compared to the abrahamisms). Understanding living traditions and texts considered holy is far more important as a way of benefiting from the lessons learned by passed sages (see also Rituals: [Knowledge transmission](https://sites.google.com/site/hinduvichaarah/sanskarah/svacarah#TOC-Knowledge-transmission)).
+- History is not central to benefiting from the hindu worldview (compared to the abrahamisms). Understanding living traditions and texts considered holy is far more important as a way of benefiting from the lessons learned by passed sages (see also Rituals: [Knowledge transmission](../self-cultivation/rituals.md)).
 - This is illustrated by a stark contrast between the worldview of a paNDita and the (dominant) worldview among indologists \[[AA](https://archive.org/stream/paNDit-papers/ScholasticismPanditTraditionalScholarshipInIndiaFestschriftOrCommeomorationParameswaraAithalAxelMichaelsarticles#page/n51/mode/2up)\]. Particularly, divergences in the commitment to:
     - memorization of the core of the shAstra,
     - the devaluation of historicity ( which seems to anticipate what I've heard about "histori-centrism" popularized by rAjIv malhotra ),
@@ -36,7 +36,7 @@ One **should admit** that the study of history involves explaining relatively sp
         - Eg. Ram Swarup. Sitaram Goel. KS Lal. Koenraad Elst
         - As Koenraad says: "I applaud the insight that we should write history, rather than piecemeal refutations of the false history put out by the secularists." \[[FB](https://www.facebook.com/vikramvgarg/posts/10104784482166260?comment_id=10104785819960310&notif_t=like)\]
 - Of these, I am most sympathetic to the last, but I try my best to not foresake the truth. I am under the impression that the Marxist narrative is the worst offender in terms of compromizing and twisting facts to suit their political agenda.
-- State of the academia: Main article [here](https://sites.google.com/site/hinduvichaarah/vairinah/academic-subversion).
+- State of the academia: Main article [here](../rivals/academia/charges.md).
 
 ### Identify patterns
 

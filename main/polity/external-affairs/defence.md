@@ -3,7 +3,7 @@ title: स्वरक्षणम् (Defence)
 ---
 ## Topics not covered here
 
-- Non-military resistance to Abrahamisms - [see here](https://sites.google.com/site/hinduvichaarah/vairinah/abrahamisms-generally).
+- Non-military resistance to Abrahamisms - [see here](../../rivals/abe-disease.md).
 - vyUha-s, raNa-dIxA, martial arts etc.. see [here](https://sites.google.com/site/samskrtamsfo/kalah/yud-dham).
 
   

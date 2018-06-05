@@ -9,7 +9,7 @@ sidebar: hindutvam_sidebar
 
 ## Is the hindu ethos a religion?
 
-- In that Hinduism and Abrahamisms are fundamentally mutually exclusive (more [here](https://sites.google.com/site/hinduvichaarah/vairinah/abrahamisms-generally)), the practical and strategic answer is YES.
+- In that Hinduism and Abrahamisms are fundamentally mutually exclusive (more [here](../rivals/abe-disease.md)), the practical and strategic answer is YES.
 - Similar questions elsewhere
     - Is [Confucianism](http://en.wikipedia.org/wiki/Confucianism) a religion? Is [Taoism](http://en.wikipedia.org/wiki/Taoism) a religion?
     - Japan:
@@ -36,7 +36,7 @@ Some people question identities such as "hindu atheism" \[[N_09](http://nirmukta
     - darshana-s may have certain dogma-s (although it may be more profitable to think of them as therapy). So, they share some commonality with religions.
     
 - A flawed understanding results in flawed solutions.
-    - The problem of rioting muslims and hindu retaliation, if considered a conflict between religions, will lead to flawed solutions like "more secularism", "let's weaken hinduism in government and public culture" etc.. Abrahamistic rioting should be considered as a battle between a religion and a religious ecosystem. More [here](https://sites.google.com/site/hinduvichaarah/vairinah/4-idiot-intellectualism/4-secularism).
+    - The problem of rioting muslims and hindu retaliation, if considered a conflict between religions, will lead to flawed solutions like "more secularism", "let's weaken hinduism in government and public culture" etc.. Abrahamistic rioting should be considered as a battle between a religion and a religious ecosystem. More [here](../rivals/iyi/secularism.md).
     - [Balagangadhara](http://en.wikipedia.org/wiki/S._N._Balagangadhara) has made a similar case.
 - A false sense of ownership across traditions comes to being.
     - For example, just because someone who calls himself a hindu likes providing equal access to women, he should not be able to force some other tradition (say based on its own Agama-s) to provide such access in opposition to its own ritual lore.

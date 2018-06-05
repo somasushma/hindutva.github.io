@@ -59,9 +59,9 @@ Elsewhere, alien thought systems dissimulate themselves as being "more or less t
 
 ## Why be different? Barriers and cohesion
 
-Being different is a natural consequence of some very valuable distinctive practices which refine "practicing hindus" and make them happier ([samskAra-s](https://sites.google.com/site/hinduvichaarah/sanskarah/presentation)).
+Being different is a natural consequence of some very valuable distinctive practices which refine "practicing hindus" and make them happier ([samskAra-s](../presentations.md)).
 
-A strong sense of identity and belonging are very valuable emotionally. They tend to color the weights you place on different goals, your values, notions of good and bad.. (My particular affinity is [explained eslewhere](https://sites.google.com/site/hinduvichaarah/svamatam/english).)
+A strong sense of identity and belonging are very valuable emotionally. They tend to color the weights you place on different goals, your values, notions of good and bad..
 
 Besides, it is natural. Mental divides ("us, as different from them") are an essential part of being human (a part of a more general phenomena observed in social animals). But we are all richer if we can celebrate difference, rather than demand uniformity. An analogy to music would help. Some people like beethoven, others like rap, still others like R&B.
 

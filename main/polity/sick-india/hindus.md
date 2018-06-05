@@ -38,7 +38,7 @@ Where Indian politics are concerned, as a hindu, I favor ideas from the "center-
 
 ### Desiderata: India  
 
-Apart from [general desiderata](https://sites.google.com/site/hinduvichaarah/rajanitih/0-desiderata-kanksa) already mentioned, we would like the Indian state to change so that 
+Apart from [general desiderata](../desiderata.md) already mentioned, we would like the Indian state to change so that 
 
 - Environment protection.  
     - See economics list below for mass transit etc..
@@ -46,7 +46,7 @@ Apart from [general desiderata](https://sites.google.com/site/hinduvichaarah/ra
 - Understand and counteract the severe limitations of the dumbocratic system.
     - As JA [says](https://www.youtube.com/watch?v=L_CJW4hew6o): "Democracy involves following the will of the majority. But a democracy cannot be healthy if a certain community stays the majority for ever. It should keep changing." Well - that's the fate awaiting hindus due to the fertility rate gap wrt muslims. Should "healthy" dumbocracy crumble, which way should it fall? Think on it.
 - National security and Territorial integrity of the hindu homeland.
-    - Not withstanding earlier fragmentation, there is greater strength in unity. The idea of what constituted the Aryavarta is quite ancient \[ See [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-4-svaraksanam-defence)\].
+    - Not withstanding earlier fragmentation, there is greater strength in unity. The idea of what constituted the Aryavarta is quite ancient \[ See [here](../external-affairs/id.md)\].
 - Efficient law enforcement.
     - Raise the number of policemen (at least) to UN recommended standards.
 - Cultural ethos matters.
@@ -77,7 +77,7 @@ Apart from [general desiderata](https://sites.google.com/site/hinduvichaarah/ra
         
         - Illegal immigration of Muslims from bAngladesh should be stopped.
             - Research shows that setting boundaries promotes peaceful coexistence \[[plos](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095660)\] (atleast until there's war to renegotiate the boundaries).
-        - More [here](https://sites.google.com/site/hinduvichaarah/rajanitih/1-1-muslim-demographics).
+        - More [here](demographics.md).
     - Types of Islamic ideology and behavior incompatible with the hindu ethos should be suppressed with vigilance.
         - No Islamic preacher who endorses destruction of temples should be allowed into India.
             - 25k wahabi preachers from Arabia visited India between 2011 and 2014. \[[OI](http://www.oneindia.com/india/ib-vs-wahabi-the-war-against-saudi-funding-1791334.html)\]
@@ -227,7 +227,7 @@ If you can ever make the time, do attend an RSS (or HSS in america) shAkhA - you
 
 #### Of the abrahamists
 
-- See [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam).
+- See [here](../../rivals/islam/intro.md).
 
 #### Of the Indian left
 

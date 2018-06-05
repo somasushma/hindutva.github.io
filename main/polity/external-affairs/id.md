@@ -5,7 +5,7 @@ title: अभिज्ञानम् Identification
 
 ## Identification and rejection of nAstika-s (veda-rejectors)
 
-- See veda section in holy books [page](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+- See veda section in holy books [page](../../bases/books.md).
 - "श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः । ते सर्वार्थेष्वमीमांस्ये ताभ्यां धर्मो हि निर्बभौ ॥ योऽवमन्येत ते मूले हेतुशास्त्राश्रयाद् द्विजः । स साधुभिर्बहिष्कार्यो नास्तिको वेदनिन्दकः ॥" इति मनुः। तत्र मेधातिथिर् [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145584.html)।
 - buddha (an avatAra or a veda-nindaka?)
     - "Guatama Buddha was a ‘nastika’ in the traditional sense of the term. The very definition of a ‘nastika’ is ‘nastiko veda-nindakah’ (Manusmriti 2.11)."
@@ -41,9 +41,9 @@ Nationalist/ pro-hindu-cultural sentiment and awareness of the mlechCha (includi
 
 - A lack of understanding of the threat the abrahamisms contributed to the lack of common hindu fronts against muslim and other mlecCha invaders.
     
-- Yet, some acceptance of abrahamist form and norm might have been a part of the non-military response ([see here](https://sites.google.com/site/hinduvichaarah/vairinah/abrahamisms-generally). )  
+- Yet, some acceptance of abrahamist form and norm might have been a part of the non-military response ([see here](../../rivals/abe-disease.md). )  
     
-- Also see [secularism here](https://sites.google.com/site/hinduvichaarah/vairinah/4-idiot-intellectualism/4-secularism).
+- Also see [secularism here](../../rivals/iyi/secularism.md).
 - nAtha-sampradAya
     - " Of the 13 Nath sub-orders, I understand the Rawal or Nagnath order of Punjab consisted of Muslims though it traced its ancestry to Shiva. One book says that the 1891 census listed about 17% of the wandering Yogis as Muslims! The collection of verses named Gorakhbani attributed to Gorakhnath (13th or 14th century) has several verses praising the glory of the Prophet Mohammed."  
         

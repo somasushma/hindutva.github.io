@@ -19,7 +19,7 @@ title: Food आहारः
         - Primary reasons:
             - the theory that food influences feelings and behavior, in a way not appropriate for these peoples' traditional vocations. Meat is \_supposedly\_ rAjasika-tAmasika-guNa-pradhAna, and rare are the agnihotR-s who can cope with it in this age.
             - The karma theory: a person who eats meat will—in his next birth—become the meat eaten by that animal (Śatapatha Brāhmaṇa 9.6.1.3).
-        - Secondarily, the veda-s and other holy texts urge non-violence as described [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/violence-hinsa) (barring exceptions).
+        - Secondarily, the veda-s and other holy texts urge non-violence as described [here](../social-cultivation/violence.md) (barring exceptions).
     - Additional reasons
         - Sustainability
 - Personal note: I am ovo-lacto-vegetarian\- I eat mushrooms, fungi and commercially available egg (that single unfertilized haploid cell which cannot possibly grow into an animal). A dietary update while still retaining that beloved plant-subsistence typical of my people. I continue to abstain from alcohol and tobacco.

@@ -21,7 +21,7 @@ title: Negationism
     - "In the TED Talk by Chimamanda Ngozi Adichie that I posted last week, she notes that if you want to dispossess a people, start with “Secondly.” In other words, if you want to dispossess Native Americans, don’t start telling the story with the incursions and violence of European invaders, start with the arrows shot by Native warriors and make it look as though it was without provocation. If you want to dispossess polytheistic Hindus, start with the statue in the mosque, not the appropriation of a site of Hindu reverence. The way a story is told matters." \[[krasskova16](https://krasskova.wordpress.com/2016/03/13/the-battle-for-polytheisms-soul/)\]
 - Hindu iconoclasm technique
     - Claim: Hindu and other pagan kings did it to their temples too! 
-        - See [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-1-sahisnuta-tolerance).
+        - See [here](../../polity/external-affairs/tolerance.md).
     - Claim: "The reverse happened too."
         - Lots of old mosques are now Gurdwaras in Punjab".
     - "Lots of old mosques are now Gurdwaras in Punjab".

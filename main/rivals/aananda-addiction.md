@@ -5,7 +5,7 @@ title: Ananda-addictions
 
   
 
-See [here](https://sites.google.com/site/hinduvichaarah/svamatam/1-0-purusarthah-goals-of-life) for an introduction to Ananda addiction and their great subversion of the dharma-puruShArtha.  
+See [here](../tattvam/purushaartha.md) for an introduction to Ananda addiction and their great subversion of the dharma-puruShArtha.  
 
 - Non veda-rejecting systems
     - Various vedAnta and yoga schools.
@@ -19,7 +19,7 @@ See [here](https://sites.google.com/site/hinduvichaarah/svamatam/1-0-purusarthah
     - among vaiShNava-s
         - mahAnubhAva-s
 
-A note on false generalizations based on the above : [varNa theory](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah/structure-motivation) page.
+A note on false generalizations based on the above : [varNa theory](../social-cultivation/clan/varna-theory.md) page.
 
 ## nAstika corrosion of dharma
 
@@ -27,7 +27,7 @@ The nAstika-s are corrosive to dharma (more so than vedAnta ).
 
 - Their kingship thought lacks aggression. parAkrama, clearly engendered by vaidika rituals like rAjasUya and ashvamedha. At best, they practice self defense.
 - They subvert the Arya conservativism of the veda-s and brAhmaNa-s (particularly in later days).
-- hindu-devatA-subversion [here](https://sites.google.com/site/hinduvichaarah/svamatam/0-2-devah-deities).
+- hindu-devatA-subversion [here](../tattvam/deva.md).
 - At the same time:
     - unlike even many Astika systems, they pay high regard to Indra.
     - jaina nIti texts even respect the trayii.
@@ -64,5 +64,5 @@ The nAstika-s are corrosive to dharma (more so than vedAnta ).
 
 ### mahAnubhAva-s
 
-- See notes [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-1-sahisnuta-tolerance).
+- See notes [here](../polity/external-affairs/tolerance.md).
 -

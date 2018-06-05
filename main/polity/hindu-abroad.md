@@ -6,7 +6,7 @@ title: Hindus Abroad
 ## Past
 
 - Tarim basin
-    - See [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/pagan-asia).
+    - See [here](../../paganology/steppe.md).
 
 ## Now
 

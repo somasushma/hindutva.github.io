@@ -28,7 +28,7 @@ title: Abrahamisms generally
         - Revelation in the book says \*how\* God should be worshiped. 
     - true God and false gods (supposedly unwitting followers of Satan), universal urge for religion/ divinity, religion (= worshiping the true God, rejecting false gods)
         - BG [here](https://www.youtube.com/watch?v=MDNTP53TCxA), [here](https://www.youtube.com/watch?v=MDNTP53TCxA).
-        - Also see [here](https://sites.google.com/site/hinduvichaarah/svamatam/0-2-devah-deities).
+        - Also see [here](../tattvam/deva.md).
         - Hegel's excellent observation [IMG](http://i.imgur.com/TLjScks.jpg), [prospects_folk](https://www.marxists.org/reference/archive/hegel/works/pc/tubingen.htm).
     - After-life, end of days and judgement
         - In the end of days, messaiah (identified with Jesus) will come back, there will be a big war and he will murder all non-believers.
@@ -52,7 +52,7 @@ title: Abrahamisms generally
 - Conservative ability
     - Greater staticness of divine law in the Abrahamisms.
         - The laws given by the Abrahamic God in the revelations, and the dictates of the main prophet are considered inviolable. Change or deviation is not readily allowed.
-        - By contrast, the hindu dharmashAstra-s are fluid and context (place/ time) dependent, encouraging giving up practices detested by the society at large. (More [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/1-11-non-static-nature))
+        - By contrast, the hindu dharmashAstra-s are fluid and context (place/ time) dependent, encouraging giving up practices detested by the society at large. (More [here](../social-cultivation/dharma-fluid.md))
     - Prophets as a bug in the code
         - the prathamonmatta-s did recognize the link between a sādhāraṇonmatta and a prophet, although they are careful to distinguish the two. Jeremiah 29.26 states: “The lord (i.e. the eka-rākṣasa) made you a priest in place of Jehoiada, and you are now the chief officer in the temple. It is your duty to see that every man that is mad and makes himself a prophet is placed in chains with an iron collar round his neck.” ... Deuteronomy 13.2–6 gives the clear prescription regarding how this should be done: “If there arise among you a prophet, or a dreamer of dreams, and gives thee a sign or a wonder, and the sign or the wonder come to pass, whereof he spoke unto thee, saying, “Let us go after other gods, which thou hast not known, and let us serve them,” thou shall not hearken unto the words of that prophet, or that dreamer of dreams…And that prophet, or that dreamer of dreams, shall be put to death, because he hath spoken to turn you away from the lord your god…”  \[[MT](https://manasataramgini.wordpress.com/2016/03/11/unmada-carca/)\]
         - "The founder of tṛtīyonmāda realized that there was a “bug” in the formulation of the previous unmāda-s and wrote into his version of the unmāda-code that there could be no “unmatta” after him." \[[MT](https://manasataramgini.wordpress.com/2016/03/11/unmada-carca/)\]
@@ -84,7 +84,7 @@ title: Abrahamisms generally
 
 ## Effects on biological fitness
 
-- Case of Islam [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam).
+- Case of Islam [here](islam/intro.md).
 
 ## History
 
@@ -95,12 +95,12 @@ title: Abrahamisms generally
 ## Jewish viewpoint and roots  
 
 - Noah's rules: "Non-Jews do not have to become Jews to become righteous. They only have to embrace the Seven Laws of Noah. According to Torah tradition, God gave Noah and his family seven commandments to observe when he saved them from the flood. These commandments, referred to as the Noachide Commandments or Laws, are learned by tradition but also suggested in Genesis Chapter 9, and are as follows: 1. Not to commit idolatry; 2. Not to commit blasphemy; 3. Not to commit murder; 4. Not to have forbidden sexual relations; 5. Not to commit theft; 6. Not to eat flesh cut from a living animal; 7. To establish courts of justice to punish violators of the other six laws..." ([YT](https://www.youtube.com/watch?v=5O1ve4Hs4Po))
-- More about fanatic intolerant Judaic acts against European polytheism [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/1-pre-xtian-europe).  
+- More about fanatic intolerant Judaic acts against European polytheism [here](../../paganology/europe.md).  
     
 - Iconoclasm instructions: [here](https://i.imgur.com/CUU36yF.png).
 - Anti-hindu actions
     - Opinions expressed during modern Jewish visits to India \[[T1](https://twitter.com/sighbaboo/status/725514089850503168)\].
--  Communism and Sickularism are but newer incarnations of old hebraic plague - it is no wonder who spearheads them. To add to your list, just start writing down and checking the names of the Indologists and you will find something interesting. (more [here](https://sites.google.com/site/hinduvichaarah/vairinah/academic-subversion/1-charges))
+-  Communism and Sickularism are but newer incarnations of old hebraic plague - it is no wonder who spearheads them. To add to your list, just start writing down and checking the names of the Indologists and you will find something interesting. (more [here](academia/charges.md))
 
 ## Common politico military expressions
 
@@ -117,7 +117,7 @@ title: Abrahamisms generally
 
 ## Hindu response
 
-- Military response - see [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-4-svaraksanam-defence).
+- Military response - see [here](../polity/external-affairs/defence.md).
     - [MT](http://manasataramgini.wordpress.com/2014/02/04/some-notes-on-the-extra-military-aspects-of-the-islamo-hindu-confrontation/) posits: "Mohammedanism needed special backing for its effective survival in the subcontinent. ... Demographic and missionary aggression by Mohammedanism might not have been sufficient for it to overrun the Hindu dharma."
         
 - "The striving for non-Hinduness might have even lead to internal rifts within Mohammedanism as each group was trying be more Mohammedan than the other. " \[[MT](http://manasataramgini.wordpress.com/2014/02/04/some-notes-on-the-extra-military-aspects-of-the-islamo-hindu-confrontation/)\]
@@ -190,4 +190,4 @@ Rousing fight to expel the Abrahamist threat
 
 ## Military and state resistance.
 
-See notes in the context of Islam [here](https://sites.google.com/site/hinduvichaarah/vairinah/on-islam).
+See notes in the context of Islam [here](islam/intro.md).

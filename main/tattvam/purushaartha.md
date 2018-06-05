@@ -13,7 +13,7 @@ The following purushArtha-s are suggested in early texts (especially the niiti-s
     - This feeling is innate to us, and essential for our survival - otherwise, our desires will ensure that we destroy each other. It is always a compromise (we'd rather continue with our kaama.)
     - Traditionally, the other two puruShArtha-s are followed in a way as to not conflict with dharma. (eg. manu and medhAtithi [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200281.html))
     - Eg: Donating money, Punishing a murderer, providing for one's family. 
-    - Details [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-upodghatah-prelude).
+    - Details [here](../social-cultivation/dharma.md).
 - artha: artha is accumulation of wealth, power, knowledge etc.. For example, to accomplish dharma: wealth to give others, power to punish, knowledge to guide; Or for kaama.
 
 The above 3 seem to encompass the universe of everything we do (barring moxa - considered below), and furthermore, they seem disjoint the way they are defined above.  
@@ -62,7 +62,7 @@ The above 3 seem to encompass the universe of everything we do (barring moxa - c
 ### Origins of the Ananda-addiction
 
 - sampradAya-tree [here](https://drive.mindmup.com/map/16ppMA800tNBLadefIeUxO-vAXP98Pk8A).
-- The "supreme deity" concept gained prominent following as explained [here](https://sites.google.com/site/hinduvichaarah/svamatam/0-2-devah-deities), overtaking non-insistent personal preferences and "first among equals" aindra hierarchy.
+- The "supreme deity" concept gained prominent following as explained [here](deva.md), overtaking non-insistent personal preferences and "first among equals" aindra hierarchy.
     - Thence was inspired ati-mArga.
         - The later pAshupata-s, who lived on the fringes of Arya society as part of one of their vrata-s, took to performing acts which attracted disgust from the Arya-s (carrying emblems of brahma-hatyA, wearing ashes). One already sees how some weird quest leads to adharma. These then gradually returned to mainstream society, constructing popular temples and spreading their ideas.
     - By the time the upaniShad-s were produced, the quest for Ananda became more and more emphasized.

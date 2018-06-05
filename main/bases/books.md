@@ -31,7 +31,7 @@ title: Holy Books- Limits ग्रन्थसीमा
         - the historical and current practices and understandings of respected role-models
         - direct observation and experience.
     - The differences between the context of creation and one's own situation.
-- Also see notes on meanings of mantra-s [here](https://sites.google.com/site/hinduvichaarah/sanskarah/2-2-mantra-and-yantra).
+- Also see notes on meanings of mantra-s [here](../self-cultivation/mantra-yantra.md).
 
 ### Multi-level understanding, multiple appropriate meanings
 
@@ -61,7 +61,7 @@ title: Holy Books- Limits ग्रन्थसीमा
     - Example: Ayurveda in moving from mantra-vyapaashraya to yukti-vyapaashraya ridiculed "people who seek proof for medicines in mantras". (vAgbhaTa 40-86 and 40-88 , [BVP-discussion](https://groups.google.com/d/msg/bvparishat/Z0v53lMq9rY/c8soadfnBgAJ).)
     - "प्रत्यक्षं चानुमानं च शास्त्रं च विविधाऽऽगमम् । त्रयं सुविदितं कार्यं धर्मशुद्धिमभीप्सता ॥ " मनुः [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202285.html)
 - Subjugation to the "ultimate reality", and those that supposedly understand and experience it (especially when it comes to mokSha).
-    - This is a **double edged sword**, and should be very **carefully** applied (more [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/3-pratyaksam-direct-witness)).
+    - This is a **double edged sword**, and should be very **carefully** applied (more [here](pratyaxa.md)).
     - Hindu texts themselves say that they are not the ultimate authority, and that a truly wise person should ultimately \*transcend\* (ie not be bound by) texts and adapt a worldview that is cognizant of the ultimate reality. So, guru-s can come along and abrogate the "holy" texts and the injunctions, adding their own voice to the pre-existing pool of opinions. So, Sanatana dharma is trans-textual in that sense. नमश् शास्त्रनिर्बन्धनिष्कासकेभ्यश् शास्त्रप्रेरितेभ्यः।
     - Examples:
         - "न च वचनं वस्तुनः सामर्थ्यजनकम्। ज्ञापकं हि शास्त्रं न कारकमिति स्थितिः" \- इति शङ्करः बृहदारण्यकोपनिषद्-भाष्ये।
@@ -121,7 +121,7 @@ title: Holy Books- Limits ग्रन्थसीमा
         - One reason for the incompleteness is the sheer impossibility of anticipating and correctly weighing in on circumstances far outside one's spatio-temporal context.
     - Likelihood of "corruption" (ie later additions, deletions and editing) of the details of nearly all works has been acknowledged (see "Authority contests and pedigree", and the case of veda-s) in many places.
     - The acknowledged need to consider the context of their composition and need for later mutation.
-        - Hindu behavioral (social/ legal/ personal) system is **not at all static**. More [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/1-11-non-static-nature).
+        - Hindu behavioral (social/ legal/ personal) system is **not at all static**. More [here](../social-cultivation/dharma-fluid.md).
     - The acknowledged need to interpret (an unspecified number of) statements rather than take them literally.
 - According to some: Hindu traditions do **not have the moral "ought"** -rather they intend the word "should" - a statement of opinion that may require discussion and justification.
     - (The distinction is explained [in this article](http://www.hipkapi.com/2011/03/18/ought-vs-should/) by a follower of shrI-bAlagangAdhara.) Summary: (a) " You should not play with fire if you do not want to get burnt." vs (b) "You ought not to torture fellow-human beings (if you want to remain a moral human being)." : Regarding (a): Is the statement valid if I wear a fire-proof suit, or I use a long non-conductive stick, or move a robot to do that using remote control? Of course not.
@@ -154,7 +154,7 @@ title: Holy Books- Limits ग्रन्थसीमा
     - vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
     - bhaviShyapurANa
         - "Many parts of Bhavishya purana are original. Some chapter were added in time of Akbar to show him reincarnation of Prithviraj Chauhan. 2 chapters were added by either William Jones or Eric Pargiter to show that British are descendants of Hanuman who were blessed by Bhagvan Ram to rule India. William Jones also removed some key verses of puranas."
-- Pedigree claims about guru-lineages (and by extension their compositions) have been challenged as well. (see [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/2-sistah-role-models))
+- Pedigree claims about guru-lineages (and by extension their compositions) have been challenged as well. (see [here](elders.md))
     - The bauddha-taint
         - pracChanna-bauddhatA charge by bhAskara and rAmAnuja [BVP17](https://groups.google.com/d/msg/bvparishat/kZikXaymSIw/Ej9695exBAAJ).
 - Contests based on language
@@ -229,7 +229,7 @@ title: Holy Books- Limits ग्रन्थसीमा
         - how do they carry names of particular persons?
             - "तथा च सर्गादौ मन्त्रकृतो वृणीते विश्वामित्रस्य सूक्तं भवतीत्यादिवेदगतविश्वामित्रादिशब्दैस्तत्तदाकृतिशक्त्यादिकं पर्यालोच्य तत्तदाकारैस्तत्तत्छक्तिभिश्च तान्विनिर्माय तत्तन्मन्त्रादिप्रकाशने विनियुङ्क्ते ।" - विशिष्टाद्वैतमतावलम्बिभिर् औद्धवीयसम्प्रदायस्य भद्रेशस्वामिभी रचितमाधुनिकं भाष्यमिति।
 - There is a lot of good knowledge (ie. jjnAna), but also some ignorance (ajJNAna) or distasteful (to modern people) recommendations in the veda-s.
-    - brhadAraNyaka's endorsement of wife beating and marital rape \[[IMG](http://i.imgur.com/3GhF0HB.jpg)\]. Details [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-2-role-of-women).
+    - brhadAraNyaka's endorsement of wife beating and marital rape \[[IMG](http://i.imgur.com/3GhF0HB.jpg)\]. Details [here](../social-cultivation/women.md).
 - Boundaries of the veda
     - Arya-samAja founder dayAnanda-sarasvatI paraphrased- "चार वेद संहिता अपौरुषेय हैं और ब्राह्मण,आरण्यक, षडदर्शन,उपनिषद् और अष्टाध्यायी वगैरह ऋषियों के बनाये ग्रन्थ हैं।"
     - Certain sects consider a few other works as equal to the veda-s (see below).
@@ -336,7 +336,7 @@ title: Holy Books- Limits ग्रन्थसीमा
 - Some prescriptions of the shAstra-s are seriously (even fanatically) followed by the orthoprax members of communities to whom they apply.
     - Evidence: kālanirṇaya text (Hemādri, Mādhava, Kamalākarabhaṭṭa, Kāśinātha etc.).
     - Examples include: In case of brAhmaNa-s: Vegetarianism in non-sacrificial contexts. Not crossing the seas. Performing twilight salutations (sandhyA-vandanam) daily. etc..
-    - The motivation can either be ultimate liberation or dharma (examined [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-upodghatah-prelude).)
+    - The motivation can either be ultimate liberation or dharma (examined [here](../tattvam/purushaartha.md).)
         - Holy books are considered extremely useful guides for beginner and intermediate spiritual practitioners.
             - Partly for this reason, they are considered worthy of preservation with great care. This despite the many stories of sages throwing away or destroying their personal copies when they found them useless for further spiritual progress.
 - Yet, plenty of people do transgress these injunctions without too much guilt, despite some censure.
@@ -348,7 +348,7 @@ title: Holy Books- Limits ग्रन्थसीमा
         -  Nīlakantha-dīxita in kaliviḍambana - मन्त्रभ्रंशे संप्रदायः प्रयोगश्च्युतसंकृतौ । देशधर्मस्त्वनाचारे पृच्छतां सिद्धमुत्तरम् ॥ ८८ ॥
         - Nearly the entire community of Tamil Brahmins of all types hypocritically perform the adhyAya-upaakarma and claim to regret not performing the annual switch from studying the veda-s to shaastra-s every year and fix that by repeating the prescribed mantra-s.
         - Some major samskāra-s such as sīmantonnayana were routinely omitted (rarely conducted) in my clan even 2-3 generations ago , without any consequence or ostracism from the broader community. This continues today.
-    - The feeling or internal transformation is ultimately paramount - allowing one to transgress (knowingly or otherwise) prescribed structure, and perform (ritual and other) actions true to their feeling. See examples in the "Structure vs feeling tension" section [here](https://sites.google.com/site/hinduvichaarah/sanskarah/2-1-rituals).
+    - The feeling or internal transformation is ultimately paramount - allowing one to transgress (knowingly or otherwise) prescribed structure, and perform (ritual and other) actions true to their feeling. See examples in the "Structure vs feeling tension" section [here](../self-cultivation/rituals.md).
 
 ## Contrasts
 

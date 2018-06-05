@@ -7,7 +7,7 @@ We are in favor of the following (subject to change):
 
 - A strong revival of paganism (potentially bound by the meta-template of hinduism) as an alternative to the Abrahamic religions.
 - Protection of individual freedom to the maximum possible extant.
-    - Freedom of speech and its limits - see [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-paraih-sambandhah/3-1-sahisnuta-tolerance).
+    - Freedom of speech and its limits - see [here](../polity/external-affairs/tolerance.md).
     - Marijuana should be legalized and regulated - just like alcohol, tobacco, red bull and coffee.
         - Marijuana is less harmful than alcohol.
         - The system then has a better shot at preventing/ reducing negative effects.  
@@ -19,7 +19,7 @@ We are in favor of the following (subject to change):
             
         - They are no more likely to be child predators than heterosexuals.
         - Sexual preferences of children raised by homosexual parents are comparable to those raised by heterosexual parents.
-        - On traditional hindu tolerance - even acceptance - [see here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/3-0-upodghatah-prelude).  
+        - On traditional hindu tolerance - even acceptance - [see here??](../social-cultivation/dharma.md).  
             
     - Weapons.
         - It is against hindu tradition that good people should be unarmed. ([SB1](http://i.imgur.com/uwX4xGV.jpg).)

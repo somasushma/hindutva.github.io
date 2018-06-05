@@ -18,19 +18,19 @@ Emergence of hindu thoughts on dharma:
 - The ancient Hindu obsession with the concept of dharma is huge. There is a mountain of dharmashAstra works.
     - For a more thorough treatment, please see History of the Dharmashastras - P V Kane (links [here](https://sites.google.com/site/samskrtamsfo/prayogah/dharmasastram)).
 - Sources of the dharma include the veda-s, itihAsa-s, purANa-s, the vedAnga called kalpa (which includes dharmasUtra-s, smRtis, dharmashAstra-s and their commentaries).
-    - General intro to valid sources of hindu knowledge [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases).
+    - General intro to valid sources of hindu knowledge [here](../bases/books.md).
     - These sources are classifified into shruti (veda-s), smRti texts and shiShTAchAra (practice of learned elders).
         - All of these are ultimately said to derive from the veda-s in some traditions - hypothesizing lost veda-s and brAhmaNa-s in the process.
     - Among the smRti-s
         - manu-smRti and yAJNavalkya-smRti were the most important classically (going by the number of commentaries).
         - parAshara-smRti is considered by itself (the beginning verses) and many (eg. vidyAraNya and P V Kane) as the most suitable for the kali age, due to its flexibility. Especially because it lacks a vyavahAra section. \[[UPSC05](https://books.google.com/books?id=yWfeU9eQd5YC&pg=SL1-PA174&lpg=SL1-PA174&dq=AchAra+vyavahara+prayashcitta&source=bl&ots=MJQb21hyU_&sig=n62rTw_gHZlfPijo38k9r6YJECU&hl=sa&sa=X&ved=0CBsQ6AEwAGoVChMI-4vps6XnxgIVCqOICh2W_QXx#v=onepage&q=AchAra%20vyavahara%20prayashcitta&f=false)[IM](http://i.imgur.com/2pcqltY.png)\] From its recommendations regarding kShatriya-s, for example, one can allow for the existence of kShatriya-s even in the kali age.
     - From a shaaastric view, all shaakhaas and all smRtis are authoritative to all (Mimaamsaa: SaakhaantaraadhikaraNam) with some rules for conflict resolution.
-        - Primacy of veda-s relative to other shAstra-s - see holy books page [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+        - Primacy of veda-s relative to other shAstra-s - see holy books page [here](../bases/books.md).
     - Sectarian dharmottara-s aim to faithfully summarize the dharma prescribed in the other sources.
         - shivadharmottara - "पुराणं भारतं वेदाः शास्त्राणि सुमहान्ति च/ आयुषः क्षपनायैव धर्मो ऽल्पग्रन्थसंस्थितः॥"
     - Random anubhava is not traditionally considered a source of dharma. It has to be established by tarka based on texts (led by veda-s) and shiShTAchAra practices of elders.
         - For example: "न धर्मजिज्ञासायामिव श्रुत्यादय एव प्रमाणं ब्रह्मजिज्ञासायाम् । किन्तु श्रुत्यादयोऽनुभवादयश्च यथासम्भवमिह प्रमाणम्, अनुभवावसानत्वाद्भूतवस्तुविषयत्वाच्च ब्रह्मज्ञानस्य ।" (shankara in brahmasUtrabhAShyam 1.1.2).
-        - abhinavagupta on BG 2.46 described in  holy books page [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+        - abhinavagupta on BG 2.46 described in  holy books page [here](../bases/books.md).
 - Related quotes
     - \[[M12](http://www.sacred-texts.com/hin/mbs/mbs12037.htm), [M12E](http://www.sacred-texts.com/hin/m12/m12a036.htm#fr_117)\]
     - yato’bhyudayaniḥśreyasasiddhis sa dharmaḥ - kaNAdaH
@@ -64,7 +64,7 @@ Emergence of hindu thoughts on dharma:
         - **RNa** \- gratitude or indebtedness and **Rta**.
             - We feel indebted to nature, the deva-s, our parents, teachers, society etc.. This feeling of indebtedness and the need to sustain the systems that nurtured us was formalized in terms of RNa-s. RNa-s can only fulfilled by dharma.
             - "जायमानो वै ब्राह्मणस्त्रिभिः ऋणवा जायते ब्रह्मचर्येण ऋषिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः । एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारी वा" इति तैत्तिरीयसंहितायाम्।
-            - This acknowledgement of indebtedness is in turn based on the concept of **Rta** (divine order in the universe), through which interconnectedness of various beings is known and felt. (More [here](https://sites.google.com/site/hinduvichaarah/svamatam/sambandhajalah).)
+            - This acknowledgement of indebtedness is in turn based on the concept of **Rta** (divine order in the universe), through which interconnectedness of various beings is known and felt. (More [here](../tattvam/Rta.md).)
                 - So, there is a very pleasant feeling of rising above the self (I, me, my ...) to a higher (social, even cosmic) level of thinking.  
                     
         - Expositions: shatAvadhAnI gaNesha [here](https://www.youtube.com/watch?v=coghS3GbJM8).
@@ -83,7 +83,7 @@ Emergence of hindu thoughts on dharma:
         - The system of framing a person's role in society (duties vs rights) makes as much difference in its functioning as the representation of numbers does in calculation (hindu place-value number system vs roman/ egyption/ babylonian systems).
     - This is a fundamental difference of worldview between hindu and western civilizations.
         - Our ancestors wrote mountains of dharmashAstra-s, not the Magna Carta or the Bill of Rights.
-    - It was a grave travesty and disaster that the Indian constitution (1950-) emphasized more on rights than duties. Example of how things should have gone instead is shown [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/1-11-non-static-nature).
+    - It was a grave travesty and disaster that the Indian constitution (1950-) emphasized more on rights than duties. Example of how things should have gone instead is shown [here](dharma-fluid.md).
 - Citizen building >>> material "achievements" like infrastructure building/ wealth accumulation. This was an ideal the dharmashAstra writers strove for, with their great emphasis on AchAra and prAyashcitta.
     - If our countrymen put dharma (and its motivators such as compassion and aesthics) above money and things, we would be much stronger and happier. \[[FB](https://www.facebook.com/vishvas.vasuki/posts/10153140181607989)\]
 - Focus on or shifting the frame to self-enforcement. prAyashcitta (voluntary expiation) >>> daNDa (punishment), resulting in less friction and strife. 
@@ -99,21 +99,21 @@ Emergence of hindu thoughts on dharma:
 - A memeplex that places emphasis in the following order: scholarship in sacred lore (brAhmaNa-s) >> governance and defence (kShatriya-s) >> commerce (vaiShya-s) >> service (shUdra-s).
     - This orients a society to hold sacredness and spirituality above mere material achievements.
 - Harmonization of social groups
-    - The system of four varNa-s (mostly determined by birth), with their varying duties, was used to harmonize society (more [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah)). Keeping in mind relatively deeper principles of the dharma and changed circumstances, this part of the essential spirit may now be abandoned in favor of other systems.
+    - The system of four varNa-s (mostly determined by birth), with their varying duties, was used to harmonize society (more [here](../social-cultivation/clan/varna-theory.md)). Keeping in mind relatively deeper principles of the dharma and changed circumstances, this part of the essential spirit may now be abandoned in favor of other systems.
 
 ### Types of dharma
 
 Many are the roles in society, and accordingly the Hindu thought-stream has produced many such codes of behavior, which broadly fall into two categories:
 
 -  pravRtti-dharma (dharma that benefits other beings) 
-- nivRtti-dharma (dharma that withdraws from pravRtti-dharma-s, seeking ultimate liberation or mokSha). This is considered [elsewhere](https://sites.google.com/site/hinduvichaarah/svamatam/1-0-purusarthah-goals-of-life).
+- nivRtti-dharma (dharma that withdraws from pravRtti-dharma-s, seeking ultimate liberation or mokSha). This is considered [elsewhere](../tattvam/purushaartha.md).
 
 pravRtti-dharma is traditionally of many kinds :
 
 - sAdhAraNa-dharma, which is common to all beings.
 - visheSha-dharma, which is context-specific.
-    - guNa-dharma - professional/ social role specific. Eg. the dharma of the father, the dharma of the mother, the dharma of a son, the dharma of a king (irrespective of whether he is a kShatriya), the dharma of an engineer etc.. rAja-dharma or the government's dharma is particularly important. See examples [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah/1-3-varna-practice).
-    - varNa-dharma - Social community specific. Eg. brAhmaNa-dharma, kShatriya-dharma etc.. More [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/jatih-varnah/structure-motivation).
+    - guNa-dharma - professional/ social role specific. Eg. the dharma of the father, the dharma of the mother, the dharma of a son, the dharma of a king (irrespective of whether he is a kShatriya), the dharma of an engineer etc.. rAja-dharma or the government's dharma is particularly important. See examples [here](../social-cultivation/clan/varna-theory.md).
+    - varNa-dharma - Social community specific. Eg. brAhmaNa-dharma, kShatriya-dharma etc.. More [here](../social-cultivation/clan/varna-theory.md).
     - Ashrama-dharma - stage-of-life-dharma. brahmachAri-dharma, gRhastha-dharma, vAnaprastha-dharma, saMnyAsa-dharma
         - Combined with varNa-dharma, this becomes varNAshrama-dharma.
     - naimittika-dharma - Circumstancial dhrama. Eg. prAyashchitta for sins.
@@ -151,7 +151,7 @@ pravRtti-dharma is traditionally of many kinds :
 
 - To achieve a higher good (and never for mere personal gain), one may need to sacrifice lower ideals. For example:
     - One may need to behave dishonorably towards a dishonorable enemy. So, means and ends are intertwined.
-    - See kauShitaki "knowing indra" text and other ideas under "subjugation to the "ultimate reality"" [here](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits).
+    - See kauShitaki "knowing indra" text and other ideas under "subjugation to the "ultimate reality"" [here](../bases/books.md).
     - Personal loyalties and friendships should not supersede one's notion of what's right and proper. This is what sItAparityAga and verses such as "द्वेष्योऽपि संमतः शिष्टस्तस्यार्तस्य यथौषधम् । त्याज्यो दुष्टः प्रियोऽप्यासीदङ्गुलीवोरगक्षता" tell us.  
         
     - "For the sake of dharma, for the sake of the larger good, for the sake of lasting welfare, one has to adopt some unfair practices and use some immoral methods. But one who undertakes this must _necessarily be selfless and intelligen_t. This is the path shown by Krishna in the Mahabharata." says shrI gaNesha.
@@ -174,7 +174,7 @@ pravRtti-dharma is traditionally of many kinds :
         - Ambedkar claimed that his constitution took the best from the dharmashAstra-s; but this is not so. That guy did not have any deep scholarship in the dharmashAstra-s (maybe just enough to denounce them). It's more like he copy-pasted from non dharma-shAstra sources ("The Constitution borrowed largely from the Government of India Act, under which India was governed and which was the basis of transfer of power, and from the American, Australian, and Irish constitutions.").
             - I think that bhImrAv was a fighter guy, whose revulsion flooded out whatever little compassion he could muster for the authors of the dharmashAstra; so that in the end he did not understand their motives well at all (either for want of desire or effort) .
         - PV kANe points out several problems with it in his last volume. The most tragic of it, in my view, is the fundamental shift from duties to rights. If only he had the depth of understanding that the duty-frame used in the dharmashAstra-s are superior!
-    - In many ways, our civilization is in a state of senescence (method of analysis of history [here](https://sites.google.com/site/hinduvichaarah/6-history-itihasah/3-01-history)).
+    - In many ways, our civilization is in a state of senescence (method of analysis of history [here](../history/intro.md)).
 - Other adjustments
     - Flaws in older thought
         - In classical dharmashAstra work, a major flaw was an excessive focus on ritual, hair-splitting arguments, unnecessary subdivisions.

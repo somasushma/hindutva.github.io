@@ -5,13 +5,13 @@ title: Intro
 
 ## Introduction
 
-Hinduism (not talking about specific views/ darshana-s like advaita, dvaita, gaudiya vaishnavism etc..) shows a [huge diversity of views](https://www.youtube.com/watch?v=tMfKW1Nu-Ag) and [lack of dogm](https://www.youtube.com/watch?v=U5_inOOhfvk&index=6&list=PL6DF39CE9DE9554AD)a (beliefs without which the edifice would collapse). This cultural background is worthy of preservation for various reasons [considered here](https://sites.google.com/site/hinduvichaarah/0-05-benefits-prayojanam).
+Hinduism (not talking about specific views/ darshana-s like advaita, dvaita, gaudiya vaishnavism etc..) shows a [huge diversity of views](https://www.youtube.com/watch?v=tMfKW1Nu-Ag) and [lack of dogm](https://www.youtube.com/watch?v=U5_inOOhfvk&index=6&list=PL6DF39CE9DE9554AD)a (beliefs without which the edifice would collapse). This cultural background is worthy of preservation for various reasons [considered here](../../hinduism/benefits.md).
 
   
 
 General uses:
 
-- Communal support an reinforcement can help greatly in preserving superior memes in society. See the explanations [here](https://sites.google.com/site/hinduvichaarah/sanskarah/2-3/being-different).
+- Communal support an reinforcement can help greatly in preserving superior memes in society. See the explanations [here](../communal-support/distinctness.md).
 - Suitable communal identification can positively influence one's grit and consequent ability to accomplish great things.
 - Shared communal identity can increase group effectiveness. Eg. According to Lee Kuan Yew: Japanese groups can outperform other groups even though as individuals they mayn't be superior.
 

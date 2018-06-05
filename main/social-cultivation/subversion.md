@@ -11,11 +11,11 @@ Many serious internal subversions arose motivated by:
 
   
 
-More under the Ananda-addiction heading [here](https://sites.google.com/site/hinduvichaarah/vairinah/8-ananda-addictions).
+More under the Ananda-addiction heading [here](../rivals/aananda-addiction.md).
 
 ## Secularist and abrahamist subversion
 
-- Also see : [secularism](https://sites.google.com/site/hinduvichaarah/vairinah/4-idiot-intellectualism/4-secularism).
+- Also see : [secularism](../rivals/iyi/secularism.md).
 - As the mlecCha rag NYT put in 2017: "The tension between the hold of established cultural practices and new efforts by activists to safeguard rights, whether minority, individual or animal".
 - Encouraging schisms along the faultlines of the "suppressed and oppressed".
     - Dalit faultline

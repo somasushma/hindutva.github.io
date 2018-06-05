@@ -5,7 +5,7 @@ title: Christianity प्रेतमतम्
 
 ## Introduction
 
-- See [general evaluation here](https://sites.google.com/site/hinduvichaarah/vairinah/abrahamisms-generally).
+- See [general evaluation here](abe-disease.md).
 - The classic baptist condemnation of Hiduism with concepts such as "true vs false gods", "importance of using the right name for god", devil-worship, the coming of the anti-christ etc.. [here](https://www.youtube.com/watch?v=r8nWky51XCc).
 
 ### Mutations
@@ -19,7 +19,7 @@ title: Christianity प्रेतमतम्
 
 - Aka reactionary atheism.
 - NNT said wisely: "Indeed,  Atheism is a sect of Protestantism. (For one to be an atheist, religious "belief" has to be epistemic.) ... Atheism is not part of Paganism.  Atheism is an extreme version of Protestantism."
-- Secularism (Described [separately](https://sites.google.com/site/hinduvichaarah/vairinah/4-idiot-intellectualism/4-secularism).)
+- Secularism (Described [separately](iyi/secularism.md).)
 
 #### More agreeable mutations
 
@@ -72,7 +72,7 @@ title: Christianity प्रेतमतम्
 
 ### Secularism, Sacred vs profane distinction
 
-Thoughts on this are [here](https://sites.google.com/site/hinduvichaarah/bharatiyata).
+Thoughts on this are [here](../self-cultivation/rituals.md).
 
 ## Connection with the European Renaissance and Enlightenment
 
@@ -134,7 +134,7 @@ Thoughts on this are [here](https://sites.google.com/site/hinduvichaarah/bharati
     - Stolen generation of Australia. \[[page](http://t.co/1Z2ZtRGMbX)\]
     - Canadian Indian residential school system \[[wiki](http://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system)\]
     - Central America: [Jeh16](http://www.rawstory.com/2016/06/jehovahs-witnesses-accused-of-vandalizing-7000-year-old-pyramid-out-of-fears-of-devil-worship/#.V3MEbhgNMtF.twitter).
-- Ganging up against pagan states: Japanese pre-WW2 example [see here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/japanology).
+- Ganging up against pagan states: Japanese pre-WW2 example [see here](../../paganology/japan/geopolitics/anti-leukosphere.md).
 
 ### Past misdeeds in India
 
@@ -179,7 +179,7 @@ Thoughts on this are [here](https://sites.google.com/site/hinduvichaarah/bharati
         - As a general liar: [here](http://indiafacts.co.in/expose-mother-teresas-deceptions-demagoguery/).
 - British rule
     - Destroying native education system and impeding its widening reach.
-        - See [here](https://sites.google.com/site/hinduvichaarah/3-civilizational-appraisal/dharmasya-samarthyam).
+        - See [here](../social-cultivation/intellect-sentiment.md).
     - Aiding missionaries
         - That church is second biggest land owner in india now - is due to brits.
             - As for travancore, brits took away temple lands. Merged with govt holdings. Then gave away huge tracts of lands to xtian organizations. Forced the rAjAs to do so in future as well.
@@ -231,7 +231,7 @@ Thoughts on this are [here](https://sites.google.com/site/hinduvichaarah/bharati
 
 ## Successful fightback
 
-- Japan: see [here](https://sites.google.com/site/hinduvichaarah/8-other-pagans/japanology).
+- Japan: see [here](../../paganology/japan/intro.md).
 - 21st century China:
     - Mega church demolition [TOI](http://timesofindia.indiatimes.com/world/china/85000-square-foot-Church-demolished-in-China/articleshow/34597236.cms).
     - Chinese theology takeover [TOI](http://timesofindia.indiatimes.com/world/china/Now-made-in-China-Christian-theology/articleshow/39980313.cms).

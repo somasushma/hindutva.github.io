@@ -10,7 +10,7 @@ sidebar: hindutvam_sidebar
 ## Vaccination against bad dogma
 
 - A person or society not vaccinated with Chicken Pox is susceptible to Small Pox.
-- At a personal level, many have not had the typically hindu/ pagan experience of dogma \*and transcending dogma\* \[[an essential feature](https://sites.google.com/site/hinduvichaarah/0-1-pramanani-bases/0-15-holy-books-limits) of the diverse Hindu tradition, unlike the book-centred Abrahamisms\].
+- At a personal level, many have not had the typically hindu/ pagan experience of dogma \*and transcending dogma\* \[[an essential feature](../bases/books.md) of the diverse Hindu tradition, unlike the book-centred Abrahamisms\].
     - Deracinated atheist west-is-best rationalist pseudo-secular hindu-s do not realize the true value of being rooted in their own tradition. Not knowing the maxims "a known devil is better than an unknown angel", and "There is no such thing as a blank slate", they easily fall prey to comparatively worse alien dogmas. Eg.
         - Siddharth Dhar who turned into Abu Rumaysah, \[[WP](http://www.washingtonpost.com/world/national-security/hoping-to-create-a-new-homeland-the-islamic-state-recruits-entire-families/2014/12/24/dbffceec-8917-11e4-8ff4-fb93129c9c8b_story.html)\]
         - Neil Prakash, also known as Abu Khaled Al Cambodi. \[[DM](http://www.dailymail.co.uk/news/article-2969253/Australia-s-newest-ISIS-headhunter-targets-jihadis-social-media-Sydney-bouncer-Mohammad-Baryalei-s-death-Syria.html)\]
@@ -46,4 +46,4 @@ This ties into why we must fight to save hindutva. As pUjA put it (FB1, [IMG](h
 
   
 
-For context in India see [here](https://sites.google.com/site/hinduvichaarah/rajanitih/1-india-and-hindus).
+For context in India see [here](../polity/sick-india/hindus.md).
