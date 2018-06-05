@@ -2,9 +2,11 @@
 title: "Contributing to हिन्दु-विचाराः Hindu thoughts"
 ---
 
-This is a [Hindu(tva) site](http://hindutva.github.io/).
+This is a [Hindu(tva) site](http://hindutva.github.io/). All data and content here are available under the Creative Commons Attribution 4.0 International License.
 
-You're welcome to contribute. All contributions will be reviewed and merged if accepted.
+You can help maintain this resource!
+- You're welcome to contribute. All contributions will be reviewed and merged if accepted.
+- You're welcome to mirror our writing on your server or even fork off! More copies and backups are better.
 
 # Caution
 - Please protect your identity from violent haters - use pseudonymous git accounts if needed. (Git configuration tips: [SO](https://stackoverflow.com/a/45327500/444644).)
